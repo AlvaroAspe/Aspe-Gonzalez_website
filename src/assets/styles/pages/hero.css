@@ -1,0 +1,189 @@
+
+
+.hero {
+    margin-top: 40px;
+    grid-row: 2;
+    padding-bottom: 50px;
+    
+}
+
+.cabecera{
+    display: flex;
+    flex-wrap: nowrap;
+    
+    
+   
+}
+
+.hero-title{
+    
+    padding-left: 20px;
+    
+}
+
+.CTA-Reel {
+    cursor: pointer;
+    background-color: transparent;
+    margin: 1em;
+    justify-self:center;
+    align-self: flex-end;
+    border: solid 1px var(--black-0);
+    border-radius: 5px;
+    padding:18px 87px;
+
+}
+.CTA-Reel:hover {
+   
+    border: solid 1px var(--accent-primary);
+    background-color: var(--accent-primary);
+  
+}
+
+
+
+.hero-title H1{
+    font-size: 16vh;
+   
+    
+}
+
+.hero.container {
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+.hero.container.grid {
+    align-content: end;
+}
+
+
+
+/*.hero .grid{
+    display: grid;
+    grid-template-columns: var(--grid-main);
+    grid-template-rows: 2fr 1fr 1fr;
+
+}*/
+
+/* MARQUESINA------------------------------------------------------------------------------------*/
+
+.marquee {
+    grid-row: 3;
+    width: 100%;
+    padding: 0px;
+    margin-top: 0;
+    margin-left: auto;
+    overflow:hidden;
+}
+
+.marquee_content{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    animation: scrolling 80s linear infinite;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.marquee_item{
+    flex-shrink: 0;
+}
+
+.marquee_item img{
+    animation: rotation 5s linear infinite;
+}
+
+
+/* ANIMACION------------------------------------------------------------------------------------*/
+
+@keyframes rotation {
+    0%{ transform: rotate(0deg);}
+    100%{ transform: rotate(360deg);}
+}
+@keyframes scrolling {
+    0%{ transform: translateX(0)}
+    100%{ transform: translateX(-100%)}
+}
+
+
+/* RESPONSIVE------------------------------------------------------------------------------------*/
+
+@media (max-width: 900px) {
+ .CTA-Reel {
+    padding: 8px 40px;
+    margin-bottom: 14px;
+ }
+        
+}
+
+@media (max-width: 701px) {
+    
+    .cabecera {
+
+        flex-direction: column-reverse;
+        
+        }
+
+        
+    .CTA-Reel {
+        margin-bottom: 100px;
+        padding:14px 60px;
+        margin-left:auto;
+        margin-right: auto;
+    }
+    
+    .hero-title H1{
+            padding: 0px;
+            margin: 0px;
+        }
+ 
+}
+
+
+.reel_container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(26,26,26,1);
+    z-index: 22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s;
+    flex-direction: column;
+}
+.reel_container .close{
+    align-self: flex-end;
+    margin-bottom: 20px;
+    margin-right: 5%;
+    
+    color: var(--accent-primary);
+    border: 1px solid var(--accent-primary);
+    border-radius: 50%;
+    padding: 5px 10px;
+   
+    cursor: pointer;
+}
+
+.reel_container video{
+    width:90%;
+    
+    transform: scale(0);
+    
+    outline: none;
+    transition: all 0.3s;
+}
+
+.reel_container.show{
+    pointer-events: all;
+    opacity: 1;
+}
+
+.reel_container.show video{
+    transform: scale(1);
+}

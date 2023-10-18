@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+title: Aspe&Gonzalez
+eleventyNavigation:
+  key: work
+  title: Work.
+  order: 1
+---
+<span class="ir-arriba"  javascript:void(0) title="Volver arriba" > 
+   Up&#8599;
+</span>
+
+  <div id="botonera" class="botonera-portfolio col-12">
+    <a href="#" id="categoryItem" category="All" class="filter_btn text-nav">All.</a>
+    <a href="#" id="categoryItem" category="dos_D" class="filter_btn  text-nav">2D.</a>
+    <a href="#" id="categoryItem" category="tres_D" class="filter_btn  text-nav">3D.</a>
+    <a href="#" id="categoryItem" category="mixed" class="filter_btn  text-nav">Mixed media.</a>
+    <a href="#" id="categoryItem" category="print" class="filter_btn text-nav">Print.</a>
+  </div>
+ 
+  <div class="col-12 portfolio">
+ {% for elemento in portfolio %}
+  <!--<div class="col-4 col-md-5 col-sm-4 col-xs-6">-->
+  {% include 'components/portfolio.njk' %}
+  <!--</div>-->
+  {% endfor %}
+  </div>
+
+  

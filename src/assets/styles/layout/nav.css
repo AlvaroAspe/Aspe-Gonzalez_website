@@ -1,0 +1,45 @@
+
+.menu{
+  
+  display: flex;
+  justify-content:flex-start;
+ 
+  
+  
+ 
+}
+.nav {
+ 
+ width: 7em;
+ padding: 5px 23px 5px 23px;
+
+
+ 
+
+}
+.nav a {
+ 
+  border: 0px solid var(--accent-primary);
+  
+  color: var(--black-0);
+  text-decoration: none;
+  border-radius: 15px;
+  padding: 5px 23px 5px 23px;
+
+
+
+}
+.nav a:hover {
+  color: var(--accent-primary);
+  
+ border: 1px solid var(--accent-primary);
+  padding: 5px 23px 5px 23px;
+ 
+  
+}
+
+.nav a.active {
+
+  border: 1px solid var(--accent-primary);
+
+}

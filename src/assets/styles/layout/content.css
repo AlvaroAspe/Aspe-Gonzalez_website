@@ -1,0 +1,19 @@
+.content {
+  padding-top: var(--spacer-m);
+  padding-bottom: var(--spacer-m);
+
+
+  
+}
+.noise::before{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  content: "";
+  opacity: .04;
+  z-index:-10;
+  pointer-events: none;
+  background-image: url(/assets/images/brand/noise.gif);
+}

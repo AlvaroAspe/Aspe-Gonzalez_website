@@ -1,0 +1,55 @@
+.header {
+  padding-top: var(--spacer-xs);
+  padding-bottom: var(--spacer-xl);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  z-index: 1;
+
+ /* grid-template-columns: var(--grid-main);
+  justify-content: space-between;*/
+ 
+}
+
+.header .container{
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 1fr 250px 45px;
+  justify-content:space-evenly;
+  align-items: center;
+  position: fixed;
+  top:0px;
+  left: 0px;
+  right: 0px;
+  transition: background-color .2s;
+  
+  
+}
+
+.fondo{
+  background-color: aquamarine;
+}
+
+.header-logo{
+  margin-top: 10px;
+  position: relative;
+  
+}
+
+
+.header-app-icon{
+width: 60%;
+}
+
+
+.scroll{
+  background-color: var(--white-0);
+  box-shadow: 0px 1px 4px 1px rgba(0,0,0,0.1);
+  transition: background-color .3s;
+
+
+ 
+}
+.header .container::before{
+  background-image: url(/assets/images/brand/noise.gif);
+  
+}

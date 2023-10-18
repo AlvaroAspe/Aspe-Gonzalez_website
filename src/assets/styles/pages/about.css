@@ -1,0 +1,19 @@
+
+.about {
+    text-align: justify;
+}
+
+.about a:hover{
+    color: var(--accent-secondary-2);
+    text-decoration:underline wavy 1.4px;
+
+}
+
+.accent {
+    color: var(--accent-secondary);
+   
+    border: solid 2px var(--accent-secondary);
+    border-radius: 60px;
+    padding-left:10px ;
+    padding-right: 10px;
+  }

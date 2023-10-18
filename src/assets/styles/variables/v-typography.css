@@ -1,0 +1,50 @@
+html {
+
+  /*Familias tipograficas*/
+  --font-1: Nord;
+  --font-1-Medium: Nord_Medium;
+  --font-1-Semilight: Nord_SemiLight;
+  --font-1-Light: Nord_Light;
+  --font-1-Bold: Nord_Bold;
+  --font-2: PPEditorialNew;
+  --font-2-ULight: PPEditorialNew_ULight;
+
+  /* Escala aplicada */
+  --text-nav: 16px;
+  --text-caption: 40px;
+  --text-note: 14px;
+  --text-base: 28px;
+  --text-subheader: 60px;
+  --text-title: 46px;
+  --text-headline: 95px;
+  --text-display: 160px;
+  --text-marquee:48px;
+ 
+}
+
+@media (max-width: 700px) {
+  html{
+  --text-nav: 16px;
+  --text-caption: 24px;
+  --text-note: 12px;
+  --text-base: 22px;
+  --text-subheader: 40px;
+  --text-title: 24px;
+  --text-headline: 48px;
+ /* --text-display: 140px;*/
+  }
+  
+}
+@media (max-width: 340px) {
+  html{
+  --text-nav: 16px;
+  --text-caption: 24px;
+  --text-note: 12px;
+  --text-base: 16px;
+  --text-subheader: 40px;
+  --text-title: 24px;
+  --text-headline: 48px;
+ --text-display: 50px;
+  }
+  
+}

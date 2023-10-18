@@ -1,0 +1,35 @@
+html{
+    --black-5: #0D0D0D;
+    --black-4: #141414;
+    --black-3:#1A1A1A;
+    --black-2: #767676;
+    --black-1: #CECECE;
+
+    --black-0: var(--black-3);
+
+    --white-2: #CECECE;
+    --white-4: #DADADA;
+    --white-3:#E7E7E7;
+    --white-2: #EEE;
+    --white-1: #F6F6F6;
+
+    --white-0: var(--white-3);
+
+    --accent-primary-5: #05B500;    
+    --accent-primary-4: #03DA00;
+    --accent-primary-3: #00FF01;
+    --accent-primary-2: #C0FFC0;
+    --accent-primary-1: #E1FFE1;
+
+    --accent-primary:var(--accent-primary-3);
+
+
+    --accent-secondary-5: #0000E3;
+    --accent-secondary-4: #0000F1;
+    --accent-secondary-3: #1201ED;
+    --accent-secondary-2: #504FFB;
+    --accent-secondary-1: #9E9EFF;
+
+    --accent-secondary:var(--accent-secondary-3);
+
+}

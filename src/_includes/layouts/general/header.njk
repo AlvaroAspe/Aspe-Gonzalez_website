@@ -1,0 +1,30 @@
+<div class="header">
+
+  <div id="cabecera" class="container">
+
+    <a href="/" class="header-logo">
+    <img src="/assets/images/Navigation/AG_Logo.svg">
+    </a>
+
+   
+    <div class="menu">
+    {% set navPages = collections.all | eleventyNavigation %}
+    {%- for elemento in navPages %}
+    <div class="nav text-nav">
+      
+        <a href="{{ elemento.url | url }}"
+          {% if elemento.url == page.url %} class="active"{% endif %}
+        >
+          {{ elemento.title }}
+        </a>
+      
+    </div>
+    {%- endfor %}
+    </div>
+    <a class="header-app-icon">
+    <img src="/assets/images/Navigation/Nav_App_icon.svg">
+    </a>
+
+  </div>
+
+</div>
