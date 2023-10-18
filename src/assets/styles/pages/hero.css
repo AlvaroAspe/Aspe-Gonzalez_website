@@ -68,29 +68,28 @@
 /* MARQUESINA------------------------------------------------------------------------------------*/
 
 .marquee {
-    grid-row: 3;
-    width: 100%;
-    padding: 0px;
-    margin-top: 0;
-    margin-left: auto;
-    overflow:hidden;
+    display: flex;
+    overflow: hidden;
+    height: 10vh;
+    user-select: none;
+    gap: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .marquee_content{
 
-    display: flex;
-    list-style: none;
-    justify-content: space-evenly;
-    animation: scrolling 80s linear infinite;
-    margin-bottom: 0px;
-    margin-top: 0px;
-}
-
-.marquee_item{
     flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 2rem;
+    min-width: 100%;
+    animation: scroll 25s linear infinite;
 }
+ 
 
-.marquee_item img{
+.marquee_content img{
     animation: rotation 5s linear infinite;
 }
 
@@ -101,10 +100,15 @@
     0%{ transform: rotate(0deg);}
     100%{ transform: rotate(360deg);}
 }
-@keyframes scrolling {
-    0%{ transform: translateX(0)}
-    100%{ transform: translateX(-100%)}
-}
+@keyframes scroll {
+    from {
+        transform: translateX(0);
+      }
+      to {
+        transform: translateX(calc(-100% - 2rem));
+      }
+    }
+
 
 
 /* RESPONSIVE------------------------------------------------------------------------------------*/
