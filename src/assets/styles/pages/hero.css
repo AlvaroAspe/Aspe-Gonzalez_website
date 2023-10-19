@@ -9,9 +9,9 @@
 }
 
 .cabecera_hero {
-    width: 75vw;
+    width: 75%;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap:4em;
     padding: 0;
     justify-content: space-between;
@@ -30,19 +30,37 @@
     justify-self: center;
     bottom: 30px;
     cursor: pointer;
-    background-color: transparent;
+    background-color: var(--black-0);
     border: solid 1px var(--black-0);
-    border-radius: 5px;
-    padding:18px 87px;
+    border-radius: 50%;
+    padding:0;
     align-self: flex-end;
     height: 50%;
+    display: inline-block;
+    transition: 
+    border 0.3s,
+    background-color 0.3s;
+    
+
 
 }
-.CTA-Reel:hover {
+
+.CTA-Reel:hover span {
    
-    border: solid 1px var(--accent-primary);
-    background-color: var(--accent-primary);
+    transform: translate3d(-4px, -4px, 0);
   }
+
+.CTA-Reel span{
+    
+    display: block;
+    background: var(--white-0);
+    border: 2px solid var(--black-0);
+    border-radius: 50%;
+    padding:18px 87px;
+    transform: translate3d(-2px, -2px, 0);
+	transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
+
+}
 
 .hero.container {
     padding-left: 0px;
@@ -112,7 +130,7 @@
     overflow: hidden;
     height: 10vh;
     user-select: none;
-    gap: 2rem;
+    gap: 1rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
     
@@ -124,7 +142,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    gap: 2rem;
+    gap: 1rem;
     min-width: 100%;
     animation: scroll 25s linear infinite;
 }
@@ -156,13 +174,14 @@
 
 @media (max-width: 900px) {
  .CTA-Reel {
-    padding: 8px 40px;
+    
     margin-bottom: 14px;
     align-self: center;
  }
  .cabecera_hero {
     width: 100vw;
     flex-direction: column;
+   
     align-content: space-around;
     
    }
@@ -171,16 +190,22 @@
 
 @media (max-width: 701px) {
 
+    .hero.container.grid {
+        align-content: flex-end;
+        
+        
+    }
+
     .hero{
         margin-top: 0;
     }
     
-    
+
 
         
     .CTA-Reel {
         margin-bottom: 100px;
-        padding:14px 60px;
+        padding:0;
         
         justify-self: center;
         margin: 0;
@@ -188,7 +213,7 @@
     }
     
     .hero-title{
-            padding: 0px;
+            padding-left: 10px;
             margin: 0px;
         }
  
