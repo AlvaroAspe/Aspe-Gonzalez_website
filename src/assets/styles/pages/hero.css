@@ -8,6 +8,17 @@
     
 }
 
+.hero.container {
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+.hero.container.grid {
+    align-content: flex-end;
+    
+}
+
 .cabecera_hero {
     width: 75%;
     display: flex;
@@ -18,37 +29,34 @@
 }
 
 .hero-title{
-    
     padding-left: 20px;
-    user-select: none;
-    /*align-self: flex-start;*/
+    user-select: none;   
+}
+
+/* BOTON REEL------------------------------------------------------------------------*/
+.ReelBtn{
+    position: relative;
+    align-self: flex-end;
+    margin-bottom: 20px;
+
     
 }
 
 .CTA-Reel {
-    position: relative;
-    justify-self: center;
-    bottom: 30px;
-    cursor: pointer;
+   cursor: pointer;
     background-color: var(--black-0);
     border: solid 1px var(--black-0);
     border-radius: 50%;
     padding:0;
-    align-self: flex-end;
     height: 50%;
     display: inline-block;
-    transition: 
-    border 0.3s,
-    background-color 0.3s;
     
-
-
 }
 
 .CTA-Reel:hover span {
    
     transform: translate3d(-4px, -4px, 0);
-  }
+}
 
 .CTA-Reel span{
     
@@ -58,19 +66,24 @@
     border-radius: 50%;
     padding:18px 87px;
     transform: translate3d(-2px, -2px, 0);
-	transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
+	transition: transform 0.1s cubic-bezier(0.7, 0, 0.2, 1);
 
 }
 
-.hero.container {
-    padding-left: 0px;
-    padding-right: 0px;
-    
-}
 
-.hero.container.grid {
-    align-content: flex-end;
+#DestelloTitle {
+    overflow:visible;
+    position: absolute;
     
+    z-index:1;
+
+}
+#DestelloTitle02 {
+    position: absolute;
+    bottom:0;
+    right:0;
+    z-index:1;
+
 }
 
 
@@ -173,16 +186,24 @@
 /* RESPONSIVE------------------------------------------------------------------------------------*/
 
 @media (max-width: 900px) {
- .CTA-Reel {
-    
-    margin-bottom: 14px;
+ .ReelBtn {
+    position: relative;
+    bottom: 30px;
+    margin-bottom: 20px;
     align-self: center;
+
  }
+ .CTA-Reel{
+    align-self: center;
+    justify-self: center;
+ }
+
  .cabecera_hero {
     width: 100vw;
     flex-direction: column;
+    align-content: center;
+    gap: 4em;
    
-    align-content: space-around;
     
    }
         
@@ -213,8 +234,9 @@
     }
     
     .hero-title{
-            padding-left: 10px;
+           
             margin: 0px;
+            align-self:flex-start;
         }
  
 }
