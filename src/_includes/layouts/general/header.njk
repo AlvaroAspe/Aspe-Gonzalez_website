@@ -10,7 +10,7 @@
     <div class="menu">
     {% set navPages = collections.all | eleventyNavigation %}
     {%- for elemento in navPages %}
-    <div class="nav text-nav">
+    <div id="{{ elemento.key }}" class="nav text-nav">
       
         <a href="{{ elemento.url | url }}"
           {% if elemento.url == page.url %} class="active"{% endif %}
