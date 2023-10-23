@@ -12,7 +12,7 @@
 .accent {
     color: var(--accent-secondary);
    
-    border: solid 2px var(--accent-secondary);
+    border: solid 1px var(--accent-secondary);
     border-radius: 60px;
     padding-left:10px ;
     padding-right: 10px;
