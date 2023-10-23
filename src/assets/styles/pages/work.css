@@ -1,10 +1,21 @@
+.galeria.container.grid{
+    padding: 0;
+    
+}
 .botonera-portfolio{
-    padding-top: var(--spacer--2xl);
+    
    
-    position: fixed;
-    top: 70px;
+   
+    display: flex;
+    justify-content:flex-start;
+    background-color: var(--black-0);
+   
     z-index: 1;
     transition: .3s;
+    width: 100vw;
+    /*
+    position: fixed;
+    top: 70px;*/
     
    
 }
@@ -21,12 +32,15 @@
 
 .filter_btn{
 
-    display: inline-block;
-    margin-left: 10px;
-    padding: 5px 23px 5px 23px;
+  
     color: var(--black-0);
-   /* border: 1px solid var(--accent-primary);
-    border-radius: 15px;*/
+   
+    display: inline-block;
+    margin: 10px;
+    padding: 5px 23px 5px 23px;
+    
+    border-radius: 15px;
+    color: var(--white-0);
     background-color: transparent;
     align-content: center;
     cursor: pointer;
@@ -147,6 +161,7 @@ border: 1px solid var(--accent-secondary);
 }
 
 /*Flecha para hacer la pagina hacia arriba*/
+
 .ir-arriba{
     display: none;
     font-family: var(--font-1-Light);
@@ -168,6 +183,10 @@ border: 1px solid var(--accent-secondary);
    /*text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.2);*/
     
   }
+  
+  .ir-arriba img{
+    width: 20%;
+  }
 
   .ir-arriba:hover{
     border: 1px solid var(--accent-secondary);
@@ -178,11 +197,20 @@ border: 1px solid var(--accent-secondary);
   @media (max-width: 700px){
     .botonera-portfolio{
     display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    }    
-    .portfolio{
-        position: relative;
-        top:40px;
-    }  
+    width: 100vw;
+    flex-grow: 0;
+    flex-flow: wrap;
+    gap: 0px;
+    justify-content:space-between;
+    background-color: var(--black-0);
+    
+    
+    } 
+    .filter_btn{
+        border-radius: 50%;
+        padding: 5px 9px;
+        margin: 4px;
+        color: var(--white-0);
+    }   
+   
   }
