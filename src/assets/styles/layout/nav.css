@@ -54,4 +54,7 @@ text-align: center;
     font-size: 22px;
   }
  
+.nav a.active{
+  border-radius: 50%;
+}
 }
