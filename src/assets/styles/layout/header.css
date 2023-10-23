@@ -21,11 +21,7 @@
   left: 0px;
   right: 0px;
   transition: background-color .2s;
-  
-  
 }
-
-
 
 .header-logo{
   margin-top: 10px;
@@ -69,11 +65,14 @@ width: 60%;
     width: 80%;
         
     }
+}
 @media (max-width: 400px) {
+
   .header-logo img{
     width: 160%;
         
     }
-
-}
+    .header-app-icon{
+      display: none;
+      }
 }

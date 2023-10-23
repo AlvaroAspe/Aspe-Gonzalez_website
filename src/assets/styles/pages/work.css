@@ -1,9 +1,8 @@
 .botonera-portfolio{
     padding-top: var(--spacer--2xl);
-    height: min-content;
-    margin-bottom: 20px;
+   
     position: fixed;
-    top: 58px;
+    top: 70px;
     z-index: 1;
     transition: .3s;
     
@@ -61,7 +60,6 @@
  object-fit: cover;
  height: 100%;
  overflow: hidden;
- border: 1px solid var(--black-0);
 }
 
 
@@ -174,4 +172,17 @@ border: 1px solid var(--accent-secondary);
   .ir-arriba:hover{
     border: 1px solid var(--accent-secondary);
     color: var(--accent-secondary);
+  }
+
+
+  @media (max-width: 700px){
+    .botonera-portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    }    
+    .portfolio{
+        position: relative;
+        top:40px;
+    }  
   }
