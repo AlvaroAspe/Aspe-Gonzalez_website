@@ -1,5 +1,5 @@
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="7214B2C8E8ED8D7C297A7BC77CEC4ED5" merged="0">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="12FCB24D68BCA5BC9E897F1700FCCD3E" merged="0">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
@@ -13,12 +13,12 @@
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
-   xmpMM:InstanceID="xmp.iid:a8064eb6-fe71-4117-b741-5f573c0100da"
-   xmpMM:DocumentID="695293a2-a03e-0d25-c182-f96c00000049"
-   xmpMM:OriginalDocumentID="xmp.did:bd21b43d-e750-4fc1-93db-6b2415384211"
-   xmp:MetadataDate="2023-10-24T13:00:26+02:00"
-   xmp:ModifyDate="2023-10-24T13:00:26+02:00"
-   xmp:CreateDate="2023-10-24T12:59:51+02:00"
+   xmpMM:InstanceID="xmp.iid:929289ff-0fa1-47ca-9d53-44461e782140"
+   xmpMM:DocumentID="fa027f87-0337-5b3a-3d92-b6f100000049"
+   xmpMM:OriginalDocumentID="xmp.did:a9d921ee-a5ff-48d5-83fa-0820af905932"
+   xmp:MetadataDate="2023-10-24T13:26:25+02:00"
+   xmp:ModifyDate="2023-10-24T13:26:25+02:00"
+   xmp:CreateDate="2023-10-24T13:25:45+02:00"
    xmp:CreatorTool="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"
    xmpDM:videoFrameRate="25.000000"
    xmpDM:videoFieldOrder="Progressive"
@@ -30,8 +30,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="d129700a-f78f-a494-44aa-7fa500000076"
-      stEvt:when="2023-10-24T13:00:26+02:00"
+      stEvt:instanceID="fd0d0cb3-224d-d2ce-f3d7-1bcf00000076"
+      stEvt:when="2023-10-24T13:26:25+02:00"
       stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
       stEvt:changed="/"/>
      <rdf:li
@@ -59,14 +59,14 @@
       stEvt:changed="/metadata"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:418e0406-7bb8-4153-b009-ed12eb2bd8b2"
-      stEvt:when="2023-10-24T13:00:26+02:00"
+      stEvt:instanceID="xmp.iid:e3bbc3fb-34fa-4c93-b32b-9280d52c151d"
+      stEvt:when="2023-10-24T13:26:25+02:00"
       stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
       stEvt:changed="/"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:a8064eb6-fe71-4117-b741-5f573c0100da"
-      stEvt:when="2023-10-24T13:00:26+02:00"
+      stEvt:instanceID="xmp.iid:929289ff-0fa1-47ca-9d53-44461e782140"
+      stEvt:when="2023-10-24T13:26:25+02:00"
       stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -302,7 +302,7 @@
        xmpMM:InstanceID="xmp.iid:09dc7b05-10eb-4013-83f9-0a05342642a7"
        xmpMM:DocumentID="xmp.did:09dc7b05-10eb-4013-83f9-0a05342642a7"
        xmpMM:OriginalDocumentID="xmp.did:09dc7b05-10eb-4013-83f9-0a05342642a7"
-       xmp:MetadataDate="2023-10-24T13:00:26+02:00">
+       xmp:MetadataDate="2023-10-24T13:26:25+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">CR_EP01_FX03_CURRITO DE LA CRUZ</rdf:li>
@@ -327,8 +327,8 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:754e7812-5f8f-4d60-8bd6-1476650f5da8"
-         stEvt:when="2023-10-24T13:00:26+02:00"
+         stEvt:instanceID="xmp.iid:d152556b-2af8-43c2-8de2-61ad2c759d01"
+         stEvt:when="2023-10-24T13:26:25+02:00"
          stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
@@ -1290,7 +1290,7 @@
        xmpMM:InstanceID="xmp.iid:40631012-ca80-433e-be80-3e5196e93f92"
        xmpMM:DocumentID="xmp.did:40631012-ca80-433e-be80-3e5196e93f92"
        xmpMM:OriginalDocumentID="xmp.did:40631012-ca80-433e-be80-3e5196e93f92"
-       xmp:MetadataDate="2023-10-24T13:00:26+02:00">
+       xmp:MetadataDate="2023-10-24T13:26:25+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">CR_EP01_FX03_CURRITO DE LA CRUZ</rdf:li>
@@ -1306,8 +1306,8 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:2e451997-f55a-4c67-9e7c-4f93f57d763c"
-         stEvt:when="2023-10-24T13:00:26+02:00"
+         stEvt:instanceID="xmp.iid:053dbfea-fbdd-49e5-a360-6b7fed75800d"
+         stEvt:when="2023-10-24T13:26:25+02:00"
          stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
@@ -2110,7 +2110,7 @@
        xmpMM:InstanceID="xmp.iid:7a2bee6c-6831-4564-8a4b-b53f71e08367"
        xmpMM:DocumentID="xmp.did:7a2bee6c-6831-4564-8a4b-b53f71e08367"
        xmpMM:OriginalDocumentID="xmp.did:7a2bee6c-6831-4564-8a4b-b53f71e08367"
-       xmp:MetadataDate="2023-10-24T13:00:26+02:00">
+       xmp:MetadataDate="2023-10-24T13:26:25+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">Vignette</rdf:li>
@@ -2140,8 +2140,8 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:f1fac7cf-e906-42df-bbd1-20b3276d072e"
-         stEvt:when="2023-10-24T13:00:26+02:00"
+         stEvt:instanceID="xmp.iid:0c9fb757-98b6-40bb-ae74-c2318d85901a"
+         stEvt:when="2023-10-24T13:26:25+02:00"
          stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
@@ -4147,8 +4147,8 @@
     xmpDM:timeFormat="25Timecode"
     xmpDM:timeValue="00:00:04:22"/>
    <xmpDM:videoFrameSize
-    stDim:w="640"
-    stDim:h="360"
+    stDim:w="1280"
+    stDim:h="720"
     stDim:unit="pixel"/>
    <xmpDM:altTimecode
     xmpDM:timeValue="00:00:04:22"

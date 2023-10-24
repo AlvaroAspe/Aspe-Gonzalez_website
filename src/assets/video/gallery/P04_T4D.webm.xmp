@@ -1,5 +1,5 @@
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="68ACEC83E71604701AFFD6C48800ED7A" merged="0">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="9F556DC8E0066919445E26F4186587A4" merged="0">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
@@ -10,12 +10,12 @@
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
-   xmpMM:InstanceID="xmp.iid:82a7ea7c-6efa-4831-8ba0-564f660c4aaf"
-   xmpMM:DocumentID="69767870-e81c-33ca-487d-47d700000043"
-   xmpMM:OriginalDocumentID="xmp.did:f5d8a504-6ecc-48e3-b80c-e57811e1e314"
-   xmp:MetadataDate="2023-10-24T13:00:41+02:00"
-   xmp:ModifyDate="2023-10-24T13:00:41+02:00"
-   xmp:CreateDate="2023-10-24T13:00:06+02:00"
+   xmpMM:InstanceID="xmp.iid:41586db8-29ec-4020-8cf1-5d3264195218"
+   xmpMM:DocumentID="c51cb7ae-e237-4778-e3c6-382e00000043"
+   xmpMM:OriginalDocumentID="xmp.did:e7201be2-11a7-46dc-b6cd-54e7634e21d2"
+   xmp:MetadataDate="2023-10-24T13:26:52+02:00"
+   xmp:ModifyDate="2023-10-24T13:26:52+02:00"
+   xmp:CreateDate="2023-10-24T13:26:12+02:00"
    xmp:CreatorTool="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"
    xmpDM:videoFrameRate="25.000000"
    xmpDM:videoFieldOrder="Progressive"
@@ -27,8 +27,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="b9ab09ae-96c2-dd40-90c9-238100000070"
-      stEvt:when="2023-10-24T13:00:41+02:00"
+      stEvt:instanceID="c008f5ca-1c26-46c6-9b62-5db000000070"
+      stEvt:when="2023-10-24T13:26:52+02:00"
       stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
       stEvt:changed="/"/>
      <rdf:li
@@ -56,14 +56,14 @@
       stEvt:changed="/metadata"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:ef226e50-8a3a-4338-9abb-ac704287f15d"
-      stEvt:when="2023-10-24T13:00:41+02:00"
+      stEvt:instanceID="xmp.iid:a8006e98-b149-4904-bd94-2a42b1ed96a2"
+      stEvt:when="2023-10-24T13:26:52+02:00"
       stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
       stEvt:changed="/"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:82a7ea7c-6efa-4831-8ba0-564f660c4aaf"
-      stEvt:when="2023-10-24T13:00:41+02:00"
+      stEvt:instanceID="xmp.iid:41586db8-29ec-4020-8cf1-5d3264195218"
+      stEvt:when="2023-10-24T13:26:52+02:00"
       stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -75,8 +75,8 @@
    <xmpDM:projectRef
     xmpDM:type="movie"/>
    <xmpDM:videoFrameSize
-    stDim:w="640"
-    stDim:h="360"
+    stDim:w="1280"
+    stDim:h="720"
     stDim:unit="pixel"/>
    <xmpDM:startTimecode
     xmpDM:timeFormat="25Timecode"
