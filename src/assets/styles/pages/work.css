@@ -202,7 +202,7 @@ border: 1px solid var(--accent-secondary);
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: .2em;
+    gap: .4em;
     position: absolute;
     top :0;
     bottom: 0;
@@ -218,7 +218,7 @@ border: 1px solid var(--accent-secondary);
   }
   .ir-arriba .arrow{
     
-   height: 30px;
+   height: 20px;
    color: var(--white-0);
    fill: var(--white-0);
   }
