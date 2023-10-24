@@ -1,6 +1,6 @@
 [
   {
-    "imagen": "P01_IE_DIGITALECONOMY.mp4",
+    "imagen": "P01_IE_DIGITALECONOMY.webm",
     "descripcion": "proyecto_1",
     "titulo":"IE UNIVERSITY",
     "subtitulo":"The new social contract",
@@ -8,7 +8,7 @@
     "tecnica":"mixed"
   },
   {
-    "imagen": "P2_INSERTA.mp4",
+    "imagen": "P2_INSERTA.webm",
     "descripcion": "proyecto_2",
     "titulo":"JUNTA DE ANDALUCÍA",
     "subtitulo":"Inserta Andalucía",
@@ -16,7 +16,7 @@
     "tecnica":"dos_D"
   },
   {
-    "imagen": "P3_CR.mp4",
+    "imagen": "P3_CR.webm",
     "descripcion": "proyecto_3",
     "titulo":"CURRO ROMERO",
     "subtitulo":"El Faraón",
@@ -24,7 +24,7 @@
     "tecnica":"mixed"
   },
   {
-    "imagen": "P04_T4D.mp4",
+    "imagen": "P04_T4D.webm",
     "descripcion": "proyecto_4",
     "titulo":"TECH4DEMOCRACY",
     "subtitulo":"T4D",
@@ -32,7 +32,7 @@
     "tecnica":"mixed"
   },
   {
-    "imagen": "P5_CAAC.mp4",
+    "imagen": "P5_CAAC.webm",
     "descripcion": "proyecto_5",
     "titulo":"CAAC",
     "subtitulo":"Pop caac",
@@ -40,7 +40,7 @@
     "tecnica":"mixed"
   },
   {
-    "imagen": "P5_BERRI.mp4",
+    "imagen": "P5_BERRI.webm",
     "descripcion": "proyecto_6",
     "titulo":"CIUDAD DEL CAMPO",
     "subtitulo":"Berry",
@@ -48,7 +48,7 @@
     "tecnica":"tres_D"
   },
   {
-    "imagen": "P07_LOS_LABIOS.mp4",
+    "imagen": "P07_LOS_LABIOS.webm",
     "descripcion": "proyecto_7",
      "titulo":"LOS LABIOS",
     "subtitulo":"No future",
@@ -56,7 +56,7 @@
     "tecnica":"dos_D"
   },
   {
-    "imagen": "P08_IEU_CARBON.mp4",
+    "imagen": "P08_IEU_CARBON.webm",
     "descripcion": "proyecto_8",
      "titulo":"IE UNIVERSITY",
     "subtitulo":"Sustainability challenge",
@@ -64,7 +64,7 @@
     "tecnica":"dos_D"
   },
   {
-    "imagen": "P09_T4D_ACADEMIC.mp4",
+    "imagen": "P09_T4D_ACADEMIC.webm",
     "descripcion": "proyecto_9",
     "titulo":"TECH4DEMOCRACY",
     "subtitulo":"Academic papers",
@@ -72,7 +72,7 @@
     "tecnica":"dos_D"
   },
   {
-    "imagen": "P10_IMAGENERA.mp4",
+    "imagen": "P10_IMAGENERA.webm",
     "descripcion": "proyecto_10",
      "titulo":"FUNDACIÓN CREA",
     "subtitulo":"Premios Imagenera",
@@ -80,7 +80,7 @@
     "tecnica":"dos_D"
   },
   {
-    "imagen": "P11_OG.mp4",
+    "imagen": "P11_OG.webm",
     "descripcion": "proyecto_11",
     "titulo":"AGAS",
     "subtitulo":"Open Gallery",
@@ -88,7 +88,7 @@
     "tecnica":"tres_D"
   },
   {
-    "imagen": "P12_PSOE.mp4",
+    "imagen": "P12_PSOE.webm",
     "descripcion": "proyecto_12",
     "titulo":"PSOE",
     "subtitulo":"14 congreso PSOEA",
@@ -96,7 +96,7 @@
     "tecnica":"dos_D"
   },
   {
-    "imagen": "P13_IE_WE.mp4",
+    "imagen": "P13_IE_WE.webm",
     "descripcion": "proyecto_13",
      "titulo":"IE UNIVERSITY",
     "subtitulo":"We are sustainability",
@@ -104,7 +104,7 @@
     "tecnica":"mixed"
   },
   {
-    "imagen": "P14_CR_PRINTS.mp4",
+    "imagen": "P14_CR_PRINTS.webm",
     "descripcion": "proyecto_14",
     "titulo":"CURRO ROMERO",
     "subtitulo":"El Faraón",
@@ -112,7 +112,7 @@
     "tecnica":"print"
   },
   {
-    "imagen": "P15_CEA.mp4",
+    "imagen": "P15_CEA.webm",
     "descripcion": "proyecto_15",
     "titulo":"CEA",
     "subtitulo":"Guía para pymes",
@@ -120,7 +120,7 @@
     "tecnica":"print"
   },
   {
-    "imagen": "P16_Channel9.mp4",
+    "imagen": "P16_Channel9.webm",
     "descripcion": "proyecto_16",
     "titulo":"Channel9",
     "subtitulo":"",
@@ -128,7 +128,7 @@
     "tecnica":"tres_D"
   },
   {
-    "imagen": "P17_MP.mp4",
+    "imagen": "P17_MP.webm",
     "descripcion": "proyecto_17",
     "titulo":"Monster Pintxos",
     "subtitulo":"",
@@ -136,7 +136,7 @@
     "tecnica":"tres_D"
   },
   {
-    "imagen": "P18_MILKY.mp4",
+    "imagen": "P18_MILKY.webm",
     "descripcion": "proyecto_18",
      "titulo":"The Milkyway Express",
     "subtitulo":"Malinche Tour",
