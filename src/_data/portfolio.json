@@ -4,7 +4,7 @@
     "descripcion": "proyecto_1",
     "titulo":"IE UNIVERSITY",
     "subtitulo":"The new social contract",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"mixed"
   },
   {
@@ -12,7 +12,7 @@
     "descripcion": "proyecto_2",
     "titulo":"JUNTA DE ANDALUCÍA",
     "subtitulo":"Inserta Andalucía",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"dos_D"
   },
   {
@@ -20,7 +20,7 @@
     "descripcion": "proyecto_3",
     "titulo":"CURRO ROMERO",
     "subtitulo":"El Faraón",
-    "tamaño":"col-12",
+    "tamano":"col-12",
     "tecnica":"mixed"
   },
   {
@@ -28,7 +28,7 @@
     "descripcion": "proyecto_4",
     "titulo":"TECH4DEMOCRACY",
     "subtitulo":"T4D",
-    "tamaño":"col-8 col-md-6 col-sm-4 col-xs-6",
+    "tamano":"col-8 col-md-6 col-sm-4 col-xs-6",
     "tecnica":"mixed"
   },
   {
@@ -36,7 +36,7 @@
     "descripcion": "proyecto_5",
     "titulo":"CAAC",
     "subtitulo":"Pop caac",
-    "tamaño":"col-4 col-xs-6",
+    "tamano":"col-4 col-xs-6",
     "tecnica":"mixed"
   },
   {
@@ -44,7 +44,7 @@
     "descripcion": "proyecto_6",
     "titulo":"CIUDAD DEL CAMPO",
     "subtitulo":"Berry",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"tres_D"
   },
   {
@@ -52,7 +52,7 @@
     "descripcion": "proyecto_7",
      "titulo":"LOS LABIOS",
     "subtitulo":"No future",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"dos_D"
   },
   {
@@ -60,7 +60,7 @@
     "descripcion": "proyecto_8",
      "titulo":"IE UNIVERSITY",
     "subtitulo":"Sustainability challenge",
-    "tamaño":"col-12",
+    "tamano":"col-12",
     "tecnica":"dos_D"
   },
   {
@@ -68,7 +68,7 @@
     "descripcion": "proyecto_9",
     "titulo":"TECH4DEMOCRACY",
     "subtitulo":"Academic papers",
-    "tamaño":"col-8 col-md-6 col-sm-4 col-xs-6 ",
+    "tamano":"col-8 col-md-6 col-sm-4 col-xs-6 ",
     "tecnica":"dos_D"
   },
   {
@@ -76,7 +76,7 @@
     "descripcion": "proyecto_10",
      "titulo":"FUNDACIÓN CREA",
     "subtitulo":"Premios Imagenera",
-    "tamaño":"col-4 col-xs-6",
+    "tamano":"col-4 col-xs-6",
     "tecnica":"dos_D"
   },
   {
@@ -84,7 +84,7 @@
     "descripcion": "proyecto_11",
     "titulo":"AGAS",
     "subtitulo":"Open Gallery",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"tres_D"
   },
   {
@@ -92,7 +92,7 @@
     "descripcion": "proyecto_12",
     "titulo":"PSOE",
     "subtitulo":"14 congreso PSOEA",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"dos_D"
   },
   {
@@ -100,7 +100,7 @@
     "descripcion": "proyecto_13",
      "titulo":"IE UNIVERSITY",
     "subtitulo":"We are sustainability",
-    "tamaño":"col-12",
+    "tamano":"col-12",
     "tecnica":"mixed"
   },
   {
@@ -108,7 +108,7 @@
     "descripcion": "proyecto_14",
     "titulo":"CURRO ROMERO",
     "subtitulo":"El Faraón",
-    "tamaño":"col-8 col-md-6 col-sm-4 col-xs-6 ",
+    "tamano":"col-8 col-md-6 col-sm-4 col-xs-6 ",
     "tecnica":"print"
   },
   {
@@ -116,7 +116,7 @@
     "descripcion": "proyecto_15",
     "titulo":"CEA",
     "subtitulo":"Guía para pymes",
-    "tamaño":"col-4 col-xs-6",
+    "tamano":"col-4 col-xs-6",
     "tecnica":"print"
   },
   {
@@ -124,7 +124,7 @@
     "descripcion": "proyecto_16",
     "titulo":"Channel9",
     "subtitulo":"",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"tres_D"
   },
   {
@@ -132,7 +132,7 @@
     "descripcion": "proyecto_17",
     "titulo":"Monster Pintxos",
     "subtitulo":"",
-    "tamaño":"col-6 col-md-5 col-sm-4 col-xs-6",
+    "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
     "tecnica":"tres_D"
   },
   {
@@ -140,7 +140,7 @@
     "descripcion": "proyecto_18",
      "titulo":"The Milkyway Express",
     "subtitulo":"Malinche Tour",
-    "tamaño":"col-12",
+    "tamano":"col-12",
     "tecnica":"print"
   }
 ]

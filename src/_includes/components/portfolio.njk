@@ -1,13 +1,13 @@
 
 
-<div class="project {{elemento.tamaño}}" category="{{elemento.tecnica}}" onmouseover="{{elemento.descripcion}}.play()"
+<div class="project {{elemento.tamano}}" category="{{elemento.tecnica}}" onmouseover="{{elemento.descripcion}}.play()"
   onmouseleave="{{elemento.descripcion}}.pause();{{elemento.descripcion}}.currentTime=0;">
-  <video category="clip" id = "{{elemento.descripcion}}" class="project__img"
-  data-animation="fade" src="assets/video/gallery/{{elemento.imagen}}" 
-  type="video/webm" alt="Imagen de proyecto" loop  
-  muted>
+  <video category="clip" id = "{{elemento.descripcion}}" class="project_img"
+   src="/assets/video/gallery/{{elemento.imagen}}" 
+  type="video/webm" alt="Imagen de proyecto" loop muted>
   </video>
   <div class="project-overlay">
    <p class="project-title text-subheader">{{elemento.titulo}}<br>{{elemento.subtitulo}}</p>
   </div>
  </div>
+

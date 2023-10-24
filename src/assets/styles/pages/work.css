@@ -71,7 +71,7 @@
   
 }
 
-.project__img {
+.project_img {
  width: 100%;
  object-fit: cover;
  height: 100%;
@@ -165,7 +165,7 @@ border: 1px solid var(--accent-secondary);
 /*Flecha para hacer la pagina hacia arriba*/
 
 .ir-arriba{
-   display: no;
+   display: none;
     font-family: var(--font-1-Light);
     font-size: var(--text-base);
     color: var(--white-0);
