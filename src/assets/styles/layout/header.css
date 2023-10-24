@@ -55,7 +55,7 @@ width: 60%;
 
 @media (max-width: 900px) {
   .header-logo img{
-    width: 20%;
+    width: 10%;
         
     }
   
@@ -69,10 +69,18 @@ width: 60%;
 @media (max-width: 400px) {
 
   .header-logo img{
-    width: 160%;
+    width: 140%;
         
     }
     .header-app-icon{
       display: none;
       }
+}
+@media (max-width: 370px) {
+
+  .header-logo img{
+    width: 180%;
+        
+    }
+
 }
