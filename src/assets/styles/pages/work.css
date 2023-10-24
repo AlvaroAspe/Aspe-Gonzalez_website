@@ -2,6 +2,7 @@
     padding: 0;
     
 }
+
 .botonera-portfolio{
     
    
@@ -9,10 +10,11 @@
     display: flex;
     justify-content:flex-start;
     background-color: var(--black-0);
+    overflow: hidden;
    
     z-index: 1;
     transition: .3s;
-    width: 100vw;
+    
     /*
     position: fixed;
     top: 70px;*/
@@ -163,34 +165,70 @@ border: 1px solid var(--accent-secondary);
 /*Flecha para hacer la pagina hacia arriba*/
 
 .ir-arriba{
-    display: none;
+   display: no;
     font-family: var(--font-1-Light);
     font-size: var(--text-base);
-    color: var(--black-0);
+    color: var(--white-0);
 
-    border-radius: 50%;
-    border: 1px solid var(--black-0);
+    border-radius: 10px;
+   
     padding-left: 10px;
     padding-right: 10px;
-    background-color: var(--white-0);
+    background-color: var(--black-0);
     
-    
+    width: 50px;
+    height: 100px; 
+   
+ 
+
+
     cursor:pointer;
     position:fixed;
-    bottom:80px;
-    right:40px;
-    z-index:20;
-   /*text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.2);*/
+    bottom:40px;
+    right:-10px;
+    z-index:2;
+
+    box-shadow: 0px 0px 2px 1px rgba(25,25, 25, 0.2)
+   
     
   }
-  
-  .ir-arriba img{
-    width: 20%;
+  .Up_btn{
+   
+    margin: .1em;
+    padding: .5rem;
+    border: 1px solid var(--white-0);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .2em;
+    position: absolute;
+    top :0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+  }
+  .Up_btn span{
+    pointer-events: none;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    
+  }
+  .ir-arriba .arrow{
+    
+   height: 30px;
+   color: var(--white-0);
+   fill: var(--white-0);
   }
 
   .ir-arriba:hover{
-    border: 1px solid var(--accent-secondary);
-    color: var(--accent-secondary);
+    
+    box-shadow: 0px 0px 2px 1px rgba(25,25, 25, 0.2);
+    box-shadow: inlay 1px 1px 2px 1px rgba(25,25, 25, 0.2);
+    
+    
   }
 
 
@@ -213,4 +251,15 @@ border: 1px solid var(--accent-secondary);
         color: var(--white-0);
     }   
    
+  }
+  @media (max-width: 370px){
+    .botonera-portfolio{
+    display: flex;
+    justify-content:space-evenly;
+    }
+    .filter_btn{
+       
+        margin: 0px;
+       
+    }  
   }

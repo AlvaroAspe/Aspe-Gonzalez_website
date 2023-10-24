@@ -1,11 +1,19 @@
 // JavaScript
 
-$(document).ready(function(){ irArriba(); }); //Hacia arriba
+$(document).ready(function(){
 
-function irArriba(){
-  $('.ir-arriba').click(function(){ $('body,html').animate({ scrollTop:'0px' },1000); });
-  $(window).scroll(function(){
-    if($(this).scrollTop() > 0){ $('.ir-arriba').asomar(); }else{ $('.ir-arriba').slideUp(600); }
-  });
-  $('.ir-abajo').click(function(){ $('body,html').animate({ scrollTop:'1000px' },1000); });
-}
+	$('.ir-arriba').click(function(){
+		$('body, html').animate({
+			scrollTop: '0px'
+		}, 300);
+	});
+
+	$(window).scroll(function(){
+		if( $(this).scrollTop() > 0 ){
+			$('.ir-arriba').slideDown(300);
+		} else {
+			$('.ir-arriba').slideUp(300);
+		}
+	});
+
+});
