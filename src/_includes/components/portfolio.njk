@@ -1,10 +1,12 @@
 
 
-<div class="project {{elemento.tamano}}" category="{{elemento.tecnica}}" onmouseover="{{elemento.descripcion}}.play()"
+<div class="project {{elemento.tamano}}" category="{{elemento.tecnica}}" poster="{{elemento.imagen}}" preload="metadata" onmouseover="{{elemento.descripcion}}.play()"
   onmouseleave="{{elemento.descripcion}}.pause();{{elemento.descripcion}}.currentTime=0;">
-  <video category="clip" id = "{{elemento.descripcion}}" class="project_img"
-   src="/assets/video/gallery/{{elemento.imagen}}" 
-  type="video/webm" alt="Imagen de proyecto" loop muted>
+  <video category="clip" id = "{{elemento.descripcion}}" class="project_img" alt="Imagen de proyecto" loop muted>
+    <source src="/assets/video/gallery/{{elemento.webm}}" type="video/webm"/>
+    <source src="/assets/video/gallery/{{elemento.mp4}}" type="video/mp4"/>
+    <img src="/assets/video/gallery/{{elemento.gif}}" alt="video no soportado"/> 
+    Su navegador no soporta contenido multimedia
   </video>
   <div class="project-overlay">
    <p class="project-title text-subheader">{{elemento.titulo}}<br>{{elemento.subtitulo}}</p>

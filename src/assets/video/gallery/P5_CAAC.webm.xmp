@@ -1,5 +1,5 @@
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="A0132D47F1410434FE9A97C40E11B57D" merged="0">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="6F64060DBC63194D8714F24BE4C52765" merged="0">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
@@ -11,14 +11,14 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
-   xmpMM:InstanceID="xmp.iid:f4755ddd-f6d0-4a61-bd88-85e4340eb7a0"
-   xmpMM:DocumentID="e04fc17e-4410-76fe-31bb-92c700000043"
-   xmpMM:OriginalDocumentID="xmp.did:793b2a7f-7220-48d3-9373-de6dab26e05e"
-   xmp:MetadataDate="2023-10-24T13:02:25+02:00"
-   xmp:ModifyDate="2023-10-24T13:02:25+02:00"
-   xmp:CreateDate="2023-10-24T13:01+02:00"
-   xmp:CreatorTool="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"
-   xmpDM:videoFrameRate="25.000000"
+   xmpMM:InstanceID="xmp.iid:7cf796b6-6df8-4775-862b-937f93a98933"
+   xmpMM:DocumentID="f39a20a5-8c04-6582-8b87-d9e80000004b"
+   xmpMM:OriginalDocumentID="xmp.did:21844d69-9b10-40e2-b699-954a46f72c7d"
+   xmp:MetadataDate="2023-10-25T10:05:34+02:00"
+   xmp:ModifyDate="2023-10-25T10:05:34+02:00"
+   xmp:CreatorTool="Adobe Premiere Pro 2024.0 (Macintosh)"
+   xmp:CreateDate="2023-10-25T10:04:36+02:00"
+   xmpDM:videoFrameRate="24.000000"
    xmpDM:videoFieldOrder="Progressive"
    xmpDM:videoPixelAspectRatio="1/1"
    xmpDM:startTimeScale="24"
@@ -28,44 +28,26 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="c9d89b1d-a990-7e36-09d3-8da300000070"
-      stEvt:when="2023-10-24T13:02:25+02:00"
-      stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
-      stEvt:changed="/"/>
-     <rdf:li
-      stEvt:action="saved"
-      stEvt:instanceID="6a7f992a-a496-8cc5-75ac-d26d0000006e"
-      stEvt:when="2023-10-18T21:27:06+02:00"
-      stEvt:softwareAgent="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"
+      stEvt:instanceID="d5b37d2b-7341-ed1f-0691-e47e00000078"
+      stEvt:when="2023-10-25T10:05:34+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
       stEvt:changed="/"/>
      <rdf:li
       stEvt:action="created"
-      stEvt:instanceID="xmp.iid:5274012b-1c8c-4f2d-92c7-a2d7de701667"
-      stEvt:when="2023-10-18T21:26:50+02:00"
-      stEvt:softwareAgent="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"/>
+      stEvt:instanceID="xmp.iid:57f8d56e-7b1f-4666-87bb-3f1d6ddc00c9"
+      stEvt:when="2023-10-25T10:05:01+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:1a995ef6-b21a-4bbd-89eb-51fa499c78ad"
-      stEvt:when="2023-10-18T21:27:06+02:00"
-      stEvt:softwareAgent="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"
+      stEvt:instanceID="xmp.iid:0e4cbb16-ca1e-4d45-a323-15139777cb9c"
+      stEvt:when="2023-10-25T10:05:34+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
       stEvt:changed="/"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:3f20bb8c-aa63-4ec9-9d25-8f15f35be8fd"
-      stEvt:when="2023-10-18T21:27:06+02:00"
-      stEvt:softwareAgent="Adobe Photoshop 23.2 (20220128.orig.527 28d5e1a)  (Macintosh)"
-      stEvt:changed="/metadata"/>
-     <rdf:li
-      stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:a398dd83-de05-4750-990f-b2c37b3cb901"
-      stEvt:when="2023-10-24T13:02:25+02:00"
-      stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
-      stEvt:changed="/"/>
-     <rdf:li
-      stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:f4755ddd-f6d0-4a61-bd88-85e4340eb7a0"
-      stEvt:when="2023-10-24T13:02:25+02:00"
-      stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+      stEvt:instanceID="xmp.iid:7cf796b6-6df8-4775-862b-937f93a98933"
+      stEvt:when="2023-10-25T10:05:34+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
@@ -78,19 +60,8 @@
       stRef:toPart="time:0d1471176000000f254016000000"
       stRef:filePath="POP_CAAC2022.mp4"
       stRef:maskMarkers="None"/>
-     <rdf:li
-      stRef:instanceID="xmp.iid:d4b9cf46-c78e-45a0-8b6a-a08564d99f47"
-      stRef:documentID="94f8b57c-e82a-66ca-a6b3-8eb400000053"
-      stRef:fromPart="time:10584000000f254016000000d1471176000000f254016000000"
-      stRef:toPart="time:1481760000000f254016000000d1471176000000f254016000000"
-      stRef:filePath="P11_OG.mp4"
-      stRef:maskMarkers="None"/>
     </rdf:Bag>
    </xmpMM:Ingredients>
-   <xmpMM:DerivedFrom
-    stRef:instanceID="xmp.iid:3f20bb8c-aa63-4ec9-9d25-8f15f35be8fd"
-    stRef:documentID="ec350a0e-57d4-d3af-f185-75d000000041"
-    stRef:originalDocumentID="xmp.did:202184f1-453d-49ff-b1c0-3bec3e95c693"/>
    <xmpMM:Pantry>
     <rdf:Bag>
      <rdf:li>
@@ -332,7 +303,7 @@
        xmpMM:InstanceID="xmp.iid:0cea9464-ad5f-47be-95c6-9fbcc62b539a"
        xmpMM:DocumentID="xmp.did:0cea9464-ad5f-47be-95c6-9fbcc62b539a"
        xmpMM:OriginalDocumentID="xmp.did:0cea9464-ad5f-47be-95c6-9fbcc62b539a"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">CALIFATO</rdf:li>
@@ -348,9 +319,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:db7571be-836f-4fc2-ad8c-737fb1d8ed71"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:18707898-3fbc-4f49-9a2a-f9dc6e259907"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -413,17 +384,6 @@
          stRef:maskMarkers="None"/>
        </rdf:Bag>
       </xmpMM:Ingredients>
-      </rdf:Description>
-     </rdf:li>
-     <rdf:li>
-      <rdf:Description
-       dc:format="application/vnd.adobe.aftereffects.layer"
-       xmpMM:InstanceID="xmp.iid:18ec535a-b54f-40c2-8915-f9b8b09136a7">
-      <dc:title>
-       <rdf:Alt>
-        <rdf:li xml:lang="x-default">OG_Loop[0000-0175].png</rdf:li>
-       </rdf:Alt>
-      </dc:title>
       </rdf:Description>
      </rdf:li>
      <rdf:li>
@@ -599,7 +559,7 @@
        xmpMM:InstanceID="xmp.iid:323a6b73-fad2-4dde-bc70-2a0519613371"
        xmpMM:DocumentID="xmp.did:323a6b73-fad2-4dde-bc70-2a0519613371"
        xmpMM:OriginalDocumentID="xmp.did:323a6b73-fad2-4dde-bc70-2a0519613371"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">SAMANTHA</rdf:li>
@@ -615,9 +575,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:6b63fffa-3ada-4312-8f35-2685b19d0a2c"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:88d3c0f6-49d3-4ee3-8941-edb8a84d3e96"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -636,7 +596,7 @@
        xmpMM:InstanceID="xmp.iid:3474806a-3d02-402d-bf89-a9967778ceb6"
        xmpMM:DocumentID="xmp.did:3474806a-3d02-402d-bf89-a9967778ceb6"
        xmpMM:OriginalDocumentID="xmp.did:3474806a-3d02-402d-bf89-a9967778ceb6"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">MARIA ARNAL I MARCEL BAGÉS + CLAUDIA SOLA 3</rdf:li>
@@ -652,9 +612,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:1613f3b4-8c0d-40c8-ba95-e9f642fa9272"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:9b1a1bd4-1154-4c18-bb5b-4c884d8422e0"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -758,7 +718,7 @@
        xmpMM:InstanceID="xmp.iid:3c128e73-d50f-48c0-b850-f78bb8fcd94b"
        xmpMM:DocumentID="xmp.did:3c128e73-d50f-48c0-b850-f78bb8fcd94b"
        xmpMM:OriginalDocumentID="xmp.did:3c128e73-d50f-48c0-b850-f78bb8fcd94b"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">LORI MEYERS</rdf:li>
@@ -774,9 +734,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:66b45146-5cdb-46d3-a307-1ccbdc686de9"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:fad0cdb9-a913-48b7-a799-0babc8de92d0"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -1110,7 +1070,7 @@
        xmpMM:InstanceID="xmp.iid:583c199e-1271-4821-bc1b-dd9bb0e71478"
        xmpMM:DocumentID="xmp.did:583c199e-1271-4821-bc1b-dd9bb0e71478"
        xmpMM:OriginalDocumentID="xmp.did:583c199e-1271-4821-bc1b-dd9bb0e71478"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">STANICH</rdf:li>
@@ -1126,9 +1086,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:9d4e39e7-c232-484d-ab18-6b6e36a24f19"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:e5c87a60-1acd-426e-a769-c1f5f298d4fd"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -1222,7 +1182,7 @@
        xmpMM:InstanceID="xmp.iid:67373874-415e-4d50-ae43-4151618c78ff"
        xmpMM:DocumentID="xmp.did:67373874-415e-4d50-ae43-4151618c78ff"
        xmpMM:OriginalDocumentID="xmp.did:67373874-415e-4d50-ae43-4151618c78ff"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">VIE.29.08</rdf:li>
@@ -1238,9 +1198,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:a4005007-4044-42d0-94cf-b395a40fdbcb"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:f9a4ac8d-5e1f-4777-a48e-0c2009f09164"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -1540,7 +1500,7 @@
        xmpMM:InstanceID="xmp.iid:7a6d88a0-439b-4af6-b25c-10c3df8c8821"
        xmpMM:DocumentID="xmp.did:7a6d88a0-439b-4af6-b25c-10c3df8c8821"
        xmpMM:OriginalDocumentID="xmp.did:7a6d88a0-439b-4af6-b25c-10c3df8c8821"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">LEON</rdf:li>
@@ -1556,9 +1516,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:c922ee43-967f-47b4-a969-0849016f7507"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:7dfa80d1-b05e-48ff-9551-30fbe6ef1ecf"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -1736,7 +1696,7 @@
        xmpMM:InstanceID="xmp.iid:9519c0dc-3c73-4d1d-b01f-53b360fae809"
        xmpMM:DocumentID="xmp.did:9519c0dc-3c73-4d1d-b01f-53b360fae809"
        xmpMM:OriginalDocumentID="xmp.did:9519c0dc-3c73-4d1d-b01f-53b360fae809"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">BRONQIO</rdf:li>
@@ -1752,9 +1712,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:10f45cdb-4d5b-46b9-92fe-5c6ac4ee55fe"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:efd2294c-41a9-46a7-95f3-54ae4230dce4"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -1765,26 +1725,6 @@
          xmpDM:frameRate="f24576"/>
        </rdf:Bag>
       </xmpDM:Tracks>
-      </rdf:Description>
-     </rdf:li>
-     <rdf:li>
-      <rdf:Description
-       dc:format="application/vnd.adobe.aftereffects.comp"
-       xmpMM:InstanceID="xmp.iid:97657b59-9d66-4ea4-b2f0-ef85489fc00e">
-      <dc:title>
-       <rdf:Alt>
-        <rdf:li xml:lang="x-default">05_OG_Loop01</rdf:li>
-       </rdf:Alt>
-      </dc:title>
-      <xmpMM:Ingredients>
-       <rdf:Bag>
-        <rdf:li
-         stRef:instanceID="xmp.iid:18ec535a-b54f-40c2-8915-f9b8b09136a7"
-         stRef:fromPart="time:0d717824f25600"
-         stRef:toPart="time:0d717824f25600"
-         stRef:maskMarkers="None"/>
-       </rdf:Bag>
-      </xmpMM:Ingredients>
       </rdf:Description>
      </rdf:li>
      <rdf:li>
@@ -2085,7 +2025,7 @@
        xmpMM:InstanceID="xmp.iid:c15a3a58-972f-4838-97d6-70694bf66616"
        xmpMM:DocumentID="xmp.did:c15a3a58-972f-4838-97d6-70694bf66616"
        xmpMM:OriginalDocumentID="xmp.did:c15a3a58-972f-4838-97d6-70694bf66616"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">091</rdf:li>
@@ -2101,9 +2041,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:312d6177-7199-4994-bb11-1f4dd86f89c6"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:efa9e471-945e-42b7-9b1e-c5cf24e113d1"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -2323,98 +2263,6 @@
      </rdf:li>
      <rdf:li>
       <rdf:Description
-       xmp:CreateDate="2021-10-01T08:46:53Z"
-       xmp:ModifyDate="2021-10-01T08:46:53Z"
-       xmp:MetadataDate="2021-10-01T10:46:53+02:00"
-       xmp:CreatorTool="Adobe After Effects 2020 (Macintosh)"
-       xmpDM:videoFrameRate="25.000000"
-       xmpDM:videoFieldOrder="Progressive"
-       xmpDM:videoPixelAspectRatio="1/1"
-       xmpDM:startTimeScale="25"
-       xmpDM:startTimeSampleSize="1"
-       tiff:Orientation="1"
-       xmpMM:InstanceID="xmp.iid:d4b9cf46-c78e-45a0-8b6a-a08564d99f47"
-       xmpMM:DocumentID="94f8b57c-e82a-66ca-a6b3-8eb400000053"
-       xmpMM:OriginalDocumentID="xmp.did:c9851c5d-5beb-4295-876d-74c039cf8e86"
-       dc:format="H.264">
-      <xmpDM:startTimecode
-       xmpDM:timeFormat="25Timecode"
-       xmpDM:timeValue="00:00:00:00"/>
-      <xmpDM:videoFrameSize
-       stDim:w="1080"
-       stDim:h="1080"
-       stDim:unit="pixel"/>
-      <xmpDM:altTimecode
-       xmpDM:timeValue="00:00:00:00"
-       xmpDM:timeFormat="25Timecode"/>
-      <xmpDM:duration
-       xmpDM:value="2523600"
-       xmpDM:scale="1/90000"/>
-      <xmpMM:History>
-       <rdf:Seq>
-        <rdf:li
-         stEvt:action="saved"
-         stEvt:instanceID="d23ca94f-1a5b-6b83-79a5-be0700000080"
-         stEvt:when="2021-10-01T10:46:53+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2020.0 (Macintosh)"
-         stEvt:changed="/"/>
-        <rdf:li
-         stEvt:action="created"
-         stEvt:instanceID="xmp.iid:29d9c4e8-cf67-4af7-8daa-30d1a054b13d"
-         stEvt:when="2021-09-25T10:55:47+02:00"
-         stEvt:softwareAgent="Adobe After Effects 2020 (Macintosh)"/>
-        <rdf:li
-         stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:b68b4588-1d7a-406c-9f0e-774b80301d43"
-         stEvt:when="2021-09-25T11:29:55+02:00"
-         stEvt:softwareAgent="Adobe After Effects 2020 (Macintosh)"
-         stEvt:changed="/content"/>
-        <rdf:li
-         stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:b6da0d7d-c6e3-47f1-af91-b670b85f1a96"
-         stEvt:when="2021-10-01T10:39:44+02:00"
-         stEvt:softwareAgent="Adobe After Effects 2020 (Macintosh)"
-         stEvt:changed="/content"/>
-        <rdf:li
-         stEvt:action="derived"
-         stEvt:parameters="saved to new location"/>
-        <rdf:li
-         stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:1cd1682e-1a20-488b-a3da-fa4c7beac0b3"
-         stEvt:when="2021-10-01T10:42:43+02:00"
-         stEvt:softwareAgent="Adobe After Effects 2020 (Macintosh)"
-         stEvt:changed="/"/>
-        <rdf:li
-         stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:b8a3e266-80d1-4cbf-aae7-0c66f12ea7c5"
-         stEvt:when="2021-10-01T10:46:53+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2020.0 (Macintosh)"
-         stEvt:changed="/"/>
-        <rdf:li
-         stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:d4b9cf46-c78e-45a0-8b6a-a08564d99f47"
-         stEvt:when="2021-10-01T10:46:53+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2020.0 (Macintosh)"
-         stEvt:changed="/metadata"/>
-       </rdf:Seq>
-      </xmpMM:History>
-      <xmpMM:DerivedFrom
-       stRef:instanceID="xmp.iid:f20b7fa3-08a1-4897-8452-6e2691c10d16"
-       stRef:documentID="xmp.did:f20b7fa3-08a1-4897-8452-6e2691c10d16"
-       stRef:originalDocumentID="xmp.did:29d9c4e8-cf67-4af7-8daa-30d1a054b13d"/>
-      <xmpMM:Ingredients>
-       <rdf:Bag>
-        <rdf:li
-         stRef:instanceID="xmp.iid:97657b59-9d66-4ea4-b2f0-ef85489fc00e"
-         stRef:fromPart="time:0d717824f25600"
-         stRef:toPart="time:0d717824f25600"
-         stRef:maskMarkers="None"/>
-       </rdf:Bag>
-      </xmpMM:Ingredients>
-      </rdf:Description>
-     </rdf:li>
-     <rdf:li>
-      <rdf:Description
        dc:format="application/vnd.adobe.aftereffects.comp"
        xmpMM:InstanceID="xmp.iid:d58b172f-5b23-4f70-84e8-7cd3af636584">
       <dc:title>
@@ -2489,7 +2337,7 @@
        xmpMM:InstanceID="xmp.iid:d74666f7-3793-4c92-a9b6-899576b8f748"
        xmpMM:DocumentID="xmp.did:d74666f7-3793-4c92-a9b6-899576b8f748"
        xmpMM:OriginalDocumentID="xmp.did:d74666f7-3793-4c92-a9b6-899576b8f748"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">MARKERS</rdf:li>
@@ -2505,9 +2353,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:58c800fc-73d5-4077-a8eb-4e5994ff283f"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:2fca0884-c33c-4153-9344-9db038398fc1"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -2782,7 +2630,7 @@
        xmpMM:InstanceID="xmp.iid:f429a0c3-464e-48b5-be88-5fedaf182d9b"
        xmpMM:DocumentID="xmp.did:f429a0c3-464e-48b5-be88-5fedaf182d9b"
        xmpMM:OriginalDocumentID="xmp.did:f429a0c3-464e-48b5-be88-5fedaf182d9b"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">SAMANTHA HUDSON + PUTOCHINOMARICÓN 2</rdf:li>
@@ -2798,9 +2646,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:68c15636-ffe1-4f83-b3aa-2cdc99ef95af"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:43452772-65f0-4423-8a93-8aced870a9e6"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -3001,7 +2849,7 @@
        xmpMM:InstanceID="xmp.iid:f8604d1a-ec06-47f1-9540-c5f21704d74e"
        xmpMM:DocumentID="xmp.did:f8604d1a-ec06-47f1-9540-c5f21704d74e"
        xmpMM:OriginalDocumentID="xmp.did:f8604d1a-ec06-47f1-9540-c5f21704d74e"
-       xmp:MetadataDate="2023-10-24T13:02:25+02:00">
+       xmp:MetadataDate="2023-10-25T10:05:34+02:00">
       <dc:title>
        <rdf:Alt>
         <rdf:li xml:lang="x-default">CARL CRAIG</rdf:li>
@@ -3017,9 +2865,9 @@
          stEvt:changed="/metadata"/>
         <rdf:li
          stEvt:action="saved"
-         stEvt:instanceID="xmp.iid:598dcf5c-2baf-4523-bae0-40cdb14a2385"
-         stEvt:when="2023-10-24T13:02:25+02:00"
-         stEvt:softwareAgent="Adobe Adobe Media Encoder 2024.0 (Macintosh)"
+         stEvt:instanceID="xmp.iid:4bd0981a-9252-4cd0-aca6-6d415e576fd5"
+         stEvt:when="2023-10-25T10:05:34+02:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2024.0 (Macintosh)"
          stEvt:changed="/metadata"/>
        </rdf:Seq>
       </xmpMM:History>
@@ -3034,28 +2882,32 @@
      </rdf:li>
     </rdf:Bag>
    </xmpMM:Pantry>
-   <xmpDM:projectRef
-    xmpDM:type="movie"/>
-   <xmpDM:videoFrameSize
-    stDim:w="640"
-    stDim:h="360"
-    stDim:unit="pixel"/>
-   <xmpDM:startTimecode
-    xmpDM:timeFormat="25Timecode"
-    xmpDM:timeValue="00:00:00:00"/>
-   <xmpDM:altTimecode
-    xmpDM:timeValue="00:00:00:00"
-    xmpDM:timeFormat="25Timecode"/>
-   <xmpDM:duration
-    xmpDM:value="8182500"
-    xmpDM:scale="1/90000"/>
+   <xmpMM:DerivedFrom
+    stRef:instanceID="xmp.iid:57f8d56e-7b1f-4666-87bb-3f1d6ddc00c9"
+    stRef:documentID="xmp.did:57f8d56e-7b1f-4666-87bb-3f1d6ddc00c9"
+    stRef:originalDocumentID="xmp.did:57f8d56e-7b1f-4666-87bb-3f1d6ddc00c9"/>
    <creatorAtom:windowsAtom
     creatorAtom:extension=".prproj"
     creatorAtom:invocationFlags="/L"/>
    <creatorAtom:macAtom
     creatorAtom:applicationCode="1347449455"
     creatorAtom:invocationAppleEvent="1129468018"
-    creatorAtom:posixProjectPath="/var/folders/lh/zbl3m3q9419_v0ccx25mx3_m0000gn/T/Sin título_1_19.prproj"/>
+    creatorAtom:posixProjectPath="/Volumes/SuperFantasy/Personal/A&amp;G 2023 BRAND/VIDEOS PORTFOLIO/02 EDIT/Sin título_1.prproj"/>
+   <xmpDM:projectRef
+    xmpDM:type="movie"/>
+   <xmpDM:videoFrameSize
+    stDim:w="1080"
+    stDim:h="1080"
+    stDim:unit="pixel"/>
+   <xmpDM:duration
+    xmpDM:value="139"
+    xmpDM:scale="1/24"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="24Timecode"
+    xmpDM:timeValue="00:00:00:00"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00:00:00:00"
+    xmpDM:timeFormat="24Timecode"/>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
