@@ -30,33 +30,33 @@
 /* Tipos */
 @font-face {
     font-family: Nord;
-    src: url(/assets/Fonts/LaNordV2.1-Regular.otf);
+    src: url(/assets/Fonts/LaNordV2.1-Regular.woff);
    
     }
     @font-face {
         font-family: Nord_Medium;
-        src: url(/assets/Fonts/LaNordV2.1-Medium.otf);
+        src: url(/assets/Fonts/LaNordV2.1-Medium.woff);
        
         }
     @font-face {
         font-family: Nord_Bold;
-        src: url(/assets/Fonts/LaNordV2.1-Bold.otf);
+        src: url(/assets/Fonts/LaNordV2.1-Bold.woff);
         }
     @font-face {
         font-family: Nord_SemiLight;
-        src: url(/assets/Fonts/LaNordV2.1-SemiLight.otf);
+        src: url(/assets/Fonts/LaNordV2.1-SemiLight.woff);
         }
 
     @font-face {
         font-family: Nord_Light;
-        src: url(/assets/Fonts/LaNordV2.1-Light.otf);
+        src: url(/assets/Fonts/LaNordV2.1-Light.woff);
          }  
 
 @font-face {
     font-family: PPEditorialNew;
-    src: url(/assets/Fonts/PPEditorialNew-Regular.otf)
+    src: url(/assets/Fonts/PPEditorialNew-Regular.woff)
       }
       @font-face {
         font-family: PPEditorialNew_ULight;
-        src: url(/assets/Fonts/PPEditorialNew-Ultralight.otf)
+        src: url(/assets/Fonts/PPEditorialNew-Ultralight.woff)
           }
