@@ -5,20 +5,12 @@
 
 .botonera-portfolio{
     
-   
-   
     display: flex;
     justify-content:flex-start;
     background-color: var(--black-0);
     overflow: hidden;
-   
     z-index: 1;
-    transition: .3s;
-    
-    /*
-    position: fixed;
-    top: 70px;*/
-    
+    transition: .3s;  
    
 }
 
@@ -99,13 +91,11 @@
 
 .project-title{
 color: var(--accent-primary);
-
 position: absolute;
-  top:50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  /*max-width: 50%;*/
-  text-align: center;
+top:50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
 
 
 }
@@ -116,18 +106,13 @@ position: absolute;
 
 
 .activo {
- 
-    border: 1px solid var(--accent-primary);
+     border: 1px solid var(--accent-primary);
     color: var(--accent-primary);
     border-radius: 15px;
-
 }
 
 .desactivado {
-
     border: 0px solid var(--accent-primary);
-    
-
 }
 
 
@@ -155,14 +140,11 @@ border: 1px solid var(--accent-secondary);
 
 .botonera_scroll {
     opacity: 0;
- 
     transition: .3s;
-
-   
 
 }
 
-/*Flecha para hacer la pagina hacia arriba*/
+
 
 .ir-arriba{
    display: none;

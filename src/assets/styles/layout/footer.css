@@ -13,20 +13,14 @@
 
 .footer .container{
   display: flex;
-  
   padding-top: var(--spacer-xs);
   justify-content: space-between;
   align-items: baseline;
 }
 .container-contacto{
   display: flex;
-  gap: 1em;
   align-items: baseline;
 }
-/*
-.footer-contact{
-  margin-left: auto;
-}*/
 
 
 .footer a{
@@ -35,7 +29,6 @@
 }
 .footer a:hover{
   text-decoration:underline wavy 1px;
-  
   color: var(--accent-secondary);
 }
 

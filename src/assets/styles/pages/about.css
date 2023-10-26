@@ -4,7 +4,7 @@
 }
 
 .about a:hover{
-    color: var(--accent-secondary-2);
+    
     text-decoration:underline wavy 1.4px;
 
 }
