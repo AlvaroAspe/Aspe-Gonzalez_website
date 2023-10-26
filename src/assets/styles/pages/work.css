@@ -176,15 +176,15 @@ border: 1px solid var(--accent-secondary);
   }
   .Up_btn{
    
-    margin: .1em;
-    padding: .5rem;
+    margin: 2px;
+    padding: 10px;
     border: 1px solid var(--white-0);
     border-radius: 8px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: .4em;
+    gap: 4px;
     position: absolute;
     top :0;
     bottom: 0;
@@ -199,19 +199,10 @@ border: 1px solid var(--accent-secondary);
     
   }
   .ir-arriba .arrow{
-    
-   height: 20px;
-   color: var(--white-0);
-   fill: var(--white-0);
+  height: 20px;
   }
 
-  .ir-arriba:hover{
-    
-    box-shadow: 0px 0px 2px 1px rgba(25,25, 25, 0.2);
-    box-shadow: inlay 1px 1px 2px 1px rgba(25,25, 25, 0.2);
-    
-    
-  }
+
 
 
   @media (max-width: 700px){
