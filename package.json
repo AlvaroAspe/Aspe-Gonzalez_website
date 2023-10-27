@@ -1,5 +1,5 @@
 {
-  "name": "Aspe&Gonzalez Website",
+  "name": "aspegonzalez-website",
   "version": "1.0.0",
   "description": "Aspe&Gonzalez Ltd. portfolio project",
   "main": "index.js",
@@ -9,8 +9,7 @@
     "eleventy:watch": "npx eleventy --watch",
     "serve": "light-server -c .lightserverrc",
     "dev": "npm-run-all clean eleventy:default --parallel eleventy:watch serve --print-label",
-    "build": "run-s clean eleventy:default --print-label",
-    "build-pcss": "postcss scr/assets/styles/styles.css -o outputDir/css/styles.min.css"
+    "build": "run-s clean eleventy:default --print-label"
   },
   "repository": {
     "type": "git",
