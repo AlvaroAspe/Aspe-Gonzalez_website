@@ -1,3 +1,4 @@
+/* stylelint-disable property-no-vendor-prefix */
 
 
 .hero {
@@ -29,7 +30,9 @@
 
 .hero-title{
     padding-left: 20px;
-    user-select: none; 
+    -webkit-user-select: none;
+    user-select: none;
+  
        
 }
 
@@ -135,6 +138,7 @@
     display: flex;
     overflow: hidden;
     height: 10vh;
+    -webkit-user-select: none;
     user-select: none;
     gap: 10px;
     padding-top: 10px;
