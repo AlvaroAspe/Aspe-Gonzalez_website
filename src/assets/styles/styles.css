@@ -1,61 +1,52 @@
-/* Variables */
-@import url("variables/v-color.css");
-@import url("variables/v-typography.css");
-@import url("variables/v-spacer.css");
-@import url("variables/v-grid.css");
-@import url("variables/v-zindex.css");
+@import "variables/v-color.css";
+@import "variables/v-typography.css";
+@import "variables/v-spacer.css";
+@import "variables/v-grid.css";
+@import "variables/v-zindex.css";
+@import "base/reset.css";
+@import "base/typography.css";
+@import "base/grid.css";
+@import "base/grid-cols.css";
+@import "libraries/animate.css";
+@import "layout/header.css";
+@import "layout/nav.css";
+@import "layout/content.css";
+@import "layout/footer.css";
+@import "pages/hero.css";
+@import "pages/work.css";
+@import "pages/about.css";
 
-/* Base */
-@import url("base/reset.css");
-@import url("base/typography.css");
-@import url("base/grid.css");
-@import url("base/grid-cols.css");
-
-/* Libraries */
-@import url("libraries/animate.css");
-
-/* Layout */
-@import url("layout/header.css");
-@import url("layout/nav.css");
-@import url("layout/content.css");
-@import url("layout/footer.css");
-
-/*Paginas*/
-@import url("pages/hero.css");
-@import url("pages/work.css");
-@import url("pages/about.css");
-
-
-/* Tipos */
 @font-face {
     font-family: Nord;
-    src: url(/assets/Fonts/LaNordV2.1-Regular.woff);
-   
+    src: url("/assets/Fonts/LaNordV2.1-Regular.woff");
     }
-    @font-face {
-        font-family: Nord_Medium;
-        src: url(/assets/Fonts/LaNordV2.1-Medium.woff);
-       
-        }
-    @font-face {
-        font-family: Nord_Bold;
-        src: url(/assets/Fonts/LaNordV2.1-Bold.woff);
-        }
-    @font-face {
-        font-family: Nord_SemiLight;
-        src: url(/assets/Fonts/LaNordV2.1-SemiLight.woff);
+
+@font-face {
+        font-family: "Nord_Medium";
+        src: url("/assets/Fonts/LaNordV2.1-Medium.woff");
         }
 
-    @font-face {
-        font-family: Nord_Light;
-        src: url(/assets/Fonts/LaNordV2.1-Light.woff);
+@font-face {
+        font-family: "Nord_Bold";
+        src: url("/assets/Fonts/LaNordV2.1-Bold.woff");
+        }
+
+        @font-face {
+        font-family: "Nord_SemiLight";
+        src: url("/assets/Fonts/LaNordV2.1-SemiLight.woff");
+        }
+
+@font-face {
+        font-family: "Nord_Light";
+        src: url("/assets/Fonts/LaNordV2.1-Light.woff");
          }  
 
 @font-face {
     font-family: PPEditorialNew;
-    src: url(/assets/Fonts/PPEditorialNew-Regular.woff)
+    src: url("/assets/Fonts/PPEditorialNew-Regular.woff")
       }
+
       @font-face {
-        font-family: PPEditorialNew_ULight;
-        src: url(/assets/Fonts/PPEditorialNew-Ultralight.woff)
+        font-family: "PPEditorialNew_ULight";
+        src: url("/assets/Fonts/PPEditorialNew-Ultralight.woff")
           }
