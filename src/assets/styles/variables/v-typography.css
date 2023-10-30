@@ -2,12 +2,12 @@ html {
 
   /*Familias tipograficas*/
   --font-1: Nord;
-  --font-1-Medium: Nord_Medium;
-  --font-1-Semilight: Nord_SemiLight;
-  --font-1-Light: Nord_Light;
-  --font-1-Bold: Nord_Bold;
+  --font-1-medium: Nord_Medium;
+  --font-1-semilight: Nord_SemiLight;
+  --font-1-light: Nord_Light;
+  --font-1-bold: Nord_Bold;
   --font-2: PPEditorialNew;
-  --font-2-ULight: PPEditorialNew_ULight;
+  --font-2-ulight: PPEditorialNew_ULight;
 
   /* Escala aplicada */
   --text-nav: 16px;

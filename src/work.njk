@@ -11,14 +11,14 @@ eleventyNavigation:
 <div class="botonera_container col-12">
   <div id="botonera" class="botonera-portfolio">
     <a href="#" id="categoryItem" category="All" class="filter_btn text-nav">All.</a>
-    <a href="#" id="categoryItem" category="dos_D" class="filter_btn  text-nav">2D.</a>
-    <a href="#" id="categoryItem" category="tres_D" class="filter_btn  text-nav">3D.</a>
-    <a href="#" id="categoryItem" category="mixed" class="filter_btn  text-nav">Mixed media.</a>
-    <a href="#" id="categoryItem" category="print" class="filter_btn text-nav">Print.</a>
+    <a href="#" id="categoryItem" category="dos_D" class="filter-btn  text-nav">2D.</a>
+    <a href="#" id="categoryItem" category="tres_D" class="filter-btn  text-nav">3D.</a>
+    <a href="#" id="categoryItem" category="mixed" class="filter-btn  text-nav">Mixed media.</a>
+    <a href="#" id="categoryItem" category="print" class="filter-btn text-nav">Print.</a>
   </div>
 </div>
   <div class="ir-arriba"  javascript:void(0) title="Volver arriba" > 
-    <div class="Up_btn text-nav">  
+    <div class="arriba-boton text-nav">  
       <img src="/assets/images/brand/Arrow_1.svg" class="arrow" alt="up"></img>
       <span>Top.</span>
     </div>
@@ -27,9 +27,7 @@ eleventyNavigation:
 
   <div class="col-12 portfolio">
  {% for elemento in portfolio %}
-  <!--<div class="col-4 col-md-5 col-sm-4 col-xs-6">-->
   {% include 'components/portfolio.njk' %}
-  <!--</div>-->
   {% endfor %}
   </div>
 
