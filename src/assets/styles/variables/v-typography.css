@@ -17,7 +17,7 @@ html {
   --text-marquee:48px; 
 }
 
-@media (max-width <= 700px) {
+@media (max-width: 700px) {
   html{
   --text-nav: 16px;
   --text-caption: 24px;
@@ -31,7 +31,7 @@ html {
   
 }
 
-@media (max-width <= 380px) {
+@media (max-width: 380px) {
  html{
   --text-nav: 18px;
   --text-caption: 24px;

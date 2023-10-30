@@ -52,7 +52,8 @@
 
 .project-img {
  width: 100%;
- object-fit: cover;
+ -o-object-fit: cover;
+    object-fit: cover;
  height: 100%;
  overflow: hidden;
 }
@@ -73,7 +74,8 @@ color: var(--accent-primary);
 position: absolute;
 top: 50%;
 left: 50%;
-transform: translate(-50%,-50%);
+-webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
 text-align: center;
 }
 
@@ -98,7 +100,8 @@ border: 1px solid var(--accent-secondary);
 
 [data-animation = "fade"]{
     opacity: 0;
-    transform: translate(0.5);
+    -webkit-transform: translate(0.5);
+            transform: translate(0.5);
     transition: .6s ease-in-out .3s; 
 
     --opacity: 1;
@@ -108,7 +111,8 @@ border: 1px solid var(--accent-secondary);
 
 .unset{
     opacity: var(--opacity);
-    transform: var(--transform);
+    -webkit-transform: var(--transform);
+            transform: var(--transform);
 }
 
 .botonera-scroll{
@@ -151,15 +155,17 @@ border: 1px solid var(--accent-secondary);
 
   .arriba-boton span{
     pointer-events: none;
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);  
+    -webkit-writing-mode: vertical-rl;
+            writing-mode: vertical-rl;
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);  
   }
 
   .ir-arriba .arrow{
   height: 20px;
   }
 
-  @media (max-width >= 700px){
+  @media (max-width <= 700px){
     .botonera-portfolio{
     display: flex;
     width: 100vw;
@@ -178,7 +184,7 @@ border: 1px solid var(--accent-secondary);
     }      
   }
 
-  @media (max-width >= 370px){
+  @media (max-width <= 370px){
     .botonera-portfolio{
     display: flex;
     justify-content: space-evenly;

@@ -9,6 +9,7 @@
     "eleventy:watch": "npx eleventy --watch",
     "serve": "light-server -c .lightserverrc",
     "dev": "npm-run-all clean eleventy:default --parallel eleventy:watch serve --print-label",
+    "buildmin":"postcss src/assets/styles/pages -d outputDir/css/pages --no-map",
     "build": "run-s clean eleventy:default --print-label"
   },
   "repository": {
@@ -19,6 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy-navigation": "^0.1.5",
+    "browserlist": "^1.0.1",
     "light-server": "2.6.4",
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0",

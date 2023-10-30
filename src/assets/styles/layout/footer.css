@@ -44,7 +44,7 @@ vertical-align: super;
 text-transform: uppercase;
 }
 
-@media (max-width <= 430px) {
+@media (max-width: 430px) {
   .footer .container{
     flex-direction: column-reverse;
     align-items: center;
