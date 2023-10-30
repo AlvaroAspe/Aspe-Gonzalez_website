@@ -1,7 +1,7 @@
 // JavaScript
 
 const btn = document.querySelector("#ReelBtn");
-const videoContainer = document.querySelector(".reel_container");
+const videoContainer = document.querySelector(".reel-container");
 const close = document.querySelector(".close");
 const reel = document.querySelector(".reel")
 
