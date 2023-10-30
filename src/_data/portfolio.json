@@ -127,7 +127,7 @@
      "titulo":"IE UNIVERSITY",
     "subtitulo":"We are sustainability",
     "tamano":"col-12",
-    "tecnica":"mixed"
+    "tecnica":"mixed dos_D"
   },
   {
    "imagen": "P14_CR_PRINTS.png",
@@ -147,7 +147,7 @@
     "titulo":"CEA",
     "subtitulo":"Guía para pymes",
     "tamano":"col-4 col-xs-6",
-    "tecnica":"print"
+    "tecnica":"print tres_D"
   },
   {
    "imagen": "P16_Channel9.png",
@@ -167,7 +167,7 @@
     "titulo":"Monster Pintxos",
     "subtitulo":"",
     "tamano":"col-6 col-md-5 col-sm-4 col-xs-6",
-    "tecnica":"tres_D"
+    "tecnica":"tres_D print"
   },
   {
    "imagen": "P18_MILKY.png",
