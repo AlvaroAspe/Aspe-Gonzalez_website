@@ -1,3 +1,7 @@
 module.exports = {
-    plugins: [require('autoprefixer')],
+    plugins: [require
+        ('postcss-import'),
+        ('postcss-preset-env'),
+        //('cssnano'),
+    ],   
 };
