@@ -59,12 +59,12 @@ font-size: var(--text-headline);
 }
 
 h2.text-title {
-  font-family: var(--font-2-ULight);
+  font-family: var(--font-2-ulight);
   font-size: var(--text-title);
 }
 
 .text-subheader {
-  font-family: var(--font-1-Bold);
+  font-family: var(--font-1-bold);
   font-size: var(--text-subheader);
   line-height: 80%;
   letter-spacing: -2px;
@@ -72,7 +72,7 @@ h2.text-title {
 }
 
 .text-body {
-  font-family: var(--font-1-Light);
+  font-family: var(--font-1-light);
   font-style: normal;
   font-weight: 350;
   line-height: 130%; 
@@ -93,7 +93,7 @@ h2.text-title {
 }
 
 .text-nav {
-  font-family: var(--font-1-Light);
+  font-family: var(--font-1-light);
   font-size: var(--text-nav);
   font-weight: 100;
   line-height: 95%;
@@ -101,7 +101,7 @@ h2.text-title {
 }
 
 .text-marquee{
-  font-family: var(--font-2-ULight);
+  font-family: var(--font-2-ulight);
   font-size: var(--text-marquee);
 }
 

@@ -8,8 +8,8 @@
 }
 
 .hero.container {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 0;
+    padding-right: 0;
     
 }
 
@@ -18,7 +18,7 @@
     
 }
 
-.cabecera_hero {
+.cabecera-hero {
     width: 75%;
     display: flex;
     flex-wrap: nowrap;
@@ -29,24 +29,21 @@
 
 .hero-title{
     padding-left: 20px;
-    -webkit-user-select:none; 
-    user-select: none;  
+    -webkit-user-select: none; 
+    user-select: none;    
 }
 
 
-.ReelBtn{
-    
+.reel-btn{
     height: 150px;
     display: flex;
     position: relative;
     align-items: center;
     align-self: flex-end;
-    margin-bottom: 20px;
-
-    
+    margin-bottom: 20px;    
 }
 
-.CTA-Reel {
+.cta-reel {
    cursor: pointer;
     background-color: var(--black-0);
     border: solid 1px var(--black-0);
@@ -57,14 +54,7 @@
     
 }
 
-.CTA-Reel:hover span, .CTA-Reel:active span {
-
-    background-color: var(--accent-secondary-1);
-    transform: translate3d(-4px, -4px, 0);
-}
-
-.CTA-Reel span{
-    
+.cta-reel span{  
     display: block;
     background: var(--white-0);
     border: 2px solid var(--black-0);
@@ -72,19 +62,23 @@
     padding:18px 87px;
     transform: translate3d(-2px, -2px, 0);
 	transition: all 0.1s cubic-bezier(0.7, 0, 0.2, 1);
-
+    
 }
 
+.cta-reel:hover span, .cta-reel:active span {
+    background-color: var(--accent-secondary-1);
+    transform: translate3d(-4px, -4px, 0);
+}
 
-#DestelloTitle {
+#destello-title {
     overflow:visible;
     position: absolute;
     top:0;
-    
     z-index:1;
 
 }
-#DestelloTitle02 {
+
+#destello-title02 {
     position: absolute;
     bottom: 10%;
     right:0;
@@ -92,16 +86,13 @@
 
 }
 
-
-/* VIDEO REEL------------------------------------------------------------------------------------*/
-
-.reel_container {
+.reel-container {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(26,26,26,1);
+    background-color: rgba(26 / 100%);
     z-index: 3;
     display: flex;
     justify-content: center;
@@ -111,34 +102,31 @@
     transition: all 0.3s;
     flex-direction: column;
 }
-.reel_container .close{
+
+.reel-container .close{
     align-self: flex-end;
     margin-bottom: 20px;
     margin-right: 5%;
-    
     color: var(--accent-primary);
     border: 1px solid var(--accent-primary);
     border-radius: 50%;
     padding: 5px 10px;
-   
     cursor: pointer;
 }
 
-.reel_container video{
+.reel-container video{
     width:90%;
-    
     transform: scale(0);
-    
     outline: none;
     transition: all 0.3s;
 }
 
-.reel_container.show{
+.reel-container.show{
     pointer-events: all;
     opacity: 1;
 }
 
-.reel_container.show video{
+.reel-container.show video{
     transform: scale(1);
 }
 
@@ -152,11 +140,9 @@
     gap: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    
 }
 
-.marquee_content{
-
+.marquee-content{
     flex-shrink: 0;
     display: flex;
     align-items: center;
@@ -166,46 +152,38 @@
     animation: scroll 25s linear infinite;
 }
  
-
-.marquee_content img{
+.marquee-content img{
     animation: rotation 5s linear infinite;
 }
-
-
-
 
 @keyframes rotation {
     0%{ transform: rotate(0deg);}
     100%{ transform: rotate(360deg);}
 }
+
 @keyframes scroll {
     from {
         transform: translateX(0);
       }
+
       to {
         transform: translateX(-100%);
       }
     }
 
-
-
-
-
-@media (max-width: 900px) {
- .ReelBtn {
+@media (max-width <= 900px) {
+ .reel-btn {
     position: relative;
     bottom: 30px;
     margin-bottom: 20px;
     align-self: center;
+}
 
- }
- .CTA-Reel{
-   
-    align-self: center;
-    justify-self: center;
+ .cta-reel{
+  place-self: center;
  }
 
- .cabecera_hero {
+ .cabecera-hero {
     width: 100vw;
     flex-direction: column;
     align-content: center;
@@ -214,13 +192,8 @@
         
 }
 
-@media (max-width: 701px) {
-    .CTA-Reel{
-        height: 52%;
-     
-     }
-
-    #DestelloTitle02 {
+@media (max-width <= 700px) {
+    #destello-title02 {
         position: absolute;
         bottom: 15%;
         right:0;
@@ -230,29 +203,21 @@
 
     .hero.container.grid {
         align-content: flex-end;
-        
-        
-    }
+        }
 
     .hero{
         margin-top: 0;
     }
-    
-
-
-        
-    .CTA-Reel {
+         
+    .cta-reel {
+        height: 52%;
         margin-bottom: 100px;
         padding:0;
-        
-        justify-self: center;
-        margin: 0;
-       
+        justify-self: center;  
     }
     
     .hero-title{
-           
-            margin: 0px;
+            margin: 0;
             align-self:flex-start;
         }
  
