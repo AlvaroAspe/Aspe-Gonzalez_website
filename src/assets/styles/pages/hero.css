@@ -215,7 +215,7 @@
          
     .cta-reel {
         height: 52%;
-        margin-bottom: 100px;
+        margin-bottom: 0;
         padding:0;
         justify-self: center;  
     }
