@@ -1,15 +1,11 @@
 html {
-
-  /*Familias tipograficas*/
-  --font-1: Nord;
-  --font-1-medium: Nord_Medium;
-  --font-1-semilight: Nord_SemiLight;
-  --font-1-light: Nord_Light;
-  --font-1-bold: Nord_Bold;
-  --font-2: PPEditorialNew;
-  --font-2-ulight: PPEditorialNew_ULight;
-
-  /* Escala aplicada */
+  --font-1: nord;
+  --font-1-medium: nord_medium;
+  --font-1-semilight: nord_semilight;
+  --font-1-light: nord_light;
+  --font-1-bold: nord_bold;
+  --font-2: ppeditorialnew;
+  --font-2-ulight: ppeditorialnew_ulight;
   --text-nav: 16px;
   --text-caption: 40px;
   --text-note: 14px;
@@ -18,11 +14,10 @@ html {
   --text-title: 46px;
   --text-headline: 95px;
   --text-display: 160px;
-  --text-marquee:48px;
- 
+  --text-marquee:48px; 
 }
 
-@media (max-width: 700px) {
+@media (max-width <= 700px) {
   html{
   --text-nav: 16px;
   --text-caption: 24px;
@@ -35,8 +30,9 @@ html {
   }
   
 }
-@media (max-width: 380px) {
-  html{
+
+@media (max-width <= 380px) {
+ html{
   --text-nav: 18px;
   --text-caption: 24px;
   --text-note: 14px;
