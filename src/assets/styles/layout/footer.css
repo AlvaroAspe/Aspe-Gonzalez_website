@@ -1,5 +1,4 @@
 .footer {
-  
   width: 100%;
   position: relative;
   bottom: 0;
@@ -18,17 +17,18 @@
   justify-content: space-between;
   align-items: baseline;
 }
+
 .container-contacto{
   display: flex;
   align-items: baseline;
   gap:10px;
 }
 
-
 .footer a{
   text-decoration: none;
   color: var(--black-0);
 }
+
 .footer a:hover{
   text-decoration:underline wavy 1px;
   color: var(--accent-secondary);
@@ -37,20 +37,20 @@
 .hora{
   color: var(--accent-primary-5);
 }
+
 .cet{
 font-size: 10px;
 vertical-align: super;
 text-transform: uppercase;
 }
 
-@media (max-width: 430px) {
-
+@media (max-width <= 430px) {
   .footer .container{
     flex-direction: column-reverse;
     align-items: center;
   }
  
-  #Hora {
+  #hora {
     display: none;
   }
 

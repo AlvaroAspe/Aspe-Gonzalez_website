@@ -13,18 +13,18 @@ function showTime(){
 
     if (hours > 12){
         hora = Math.floor(hours%12);
-        $("#HoraActual").text(hora+ ":" +minutes);
-        $("#franjaHoraria").text("PM");
+        $("#hora-actual").text(hora+ ":" +minutes);
+        $("#franja-horaria").text("PM");
         setTimeout("showTime()", 1000);
     } else if (hours == 12){
-        $("#HoraActual").text(hours+ ":" +minutes);
-        $("#franjaHoraria").text("PM");
+        $("#hora-actual").text(hours+ ":" +minutes);
+        $("#franja-horaria").text("PM");
         setTimeout("showTime()", 1000);
     } 
     else 
         {
-        $("#HoraActual").text(hours+ ":" +minutes);
-        $("#franjaHoraria").text("AM");
+        $("#hora-actual").text(hours+ ":" +minutes);
+        $("#franja-horaria").text("AM");
         setTimeout("showTime()", 1000);
         }
     
