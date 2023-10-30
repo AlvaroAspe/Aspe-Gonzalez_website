@@ -1,9 +1,9 @@
 
 
-<div class="project {{elemento.tamano}}" category="{{elemento.tecnica}}" poster="/assets/video/gallery/{{elemento.imagen}}" preload="metadata" onmouseover="{{elemento.descripcion}}.play()"
+<div class="project {{elemento.tamano}}" category="{{elemento.tecnica}}"  onmouseover="{{elemento.descripcion}}.play()"
   onmouseleave="{{elemento.descripcion}}.pause();{{elemento.descripcion}}.currentTime=0;">
-  <video category="clip" id = "{{elemento.descripcion}}" class="project-img" alt="Imagen de proyecto" loop muted>
-    <source src="/assets/video/gallery/{{elemento.webm}}" type="video/webm"/>
+  <video category="clip" id = "{{elemento.descripcion}}" class="project-img" poster="/assets/video/gallery/{{elemento.imagen}}" loop muted>
+   <!-- <source src="/assets/video/gallery/{{elemento.webm}}" type="video/webm"/> -->
     <source src="/assets/video/gallery/{{elemento.mp4}}" type="video/mp4"/>
   </video>
   <div class="project-overlay">
