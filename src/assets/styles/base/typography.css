@@ -1,7 +1,6 @@
 
 
 body {
-  
   line-height: 1.5;
   color: var(--black-0);
   font-size: var(--text-base);
@@ -16,19 +15,13 @@ a{
   text-decoration: none;
 }
 
-
 a:hover{
   color: var(--accent-secondary-2);
   text-decoration:underline wavy 1.4px;
 
 }
 
-
-
-
-
-
-.text-display_Sans {
+.text-display-sans {
   font-family: var(--font-1);
   font-size: var(--text-display);
   font-style: normal;
@@ -38,7 +31,8 @@ a:hover{
   text-transform: capitalize;
   
 }
-.text-display_Serif {
+
+.text-display-serif {
   font-family: var(--font-2);
   font-size: var(--text-display);
   font-weight: 400;
@@ -47,9 +41,9 @@ a:hover{
   text-transform: capitalize;
 
 }
-h2.text-headline {
 
-font-family: var(--font-1-Medium);
+h2.text-headline {
+font-family: var(--font-1-medium);
 -webkit-text-fill-color: transparent;
 -webkit-text-stroke:0.5px var(--black-0);
 letter-spacing: -3.325px;
@@ -76,7 +70,7 @@ h2.text-title {
   font-style: normal;
   font-weight: 350;
   line-height: 130%; 
-  letter-spacing: 0px;
+  letter-spacing: 0;
   font-size: var(--text-base);
 }
 
