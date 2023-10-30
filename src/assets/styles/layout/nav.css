@@ -1,6 +1,5 @@
 
 .menu{
-  
   display: flex;
   justify-content: space-around ;
  
@@ -8,7 +7,7 @@
 
 .nav a {
   color: var(--black-0);
-  padding: 5px 23px 5px 23px;
+  padding: 5px 23px;
 }
 
 .nav a:hover {
@@ -24,8 +23,7 @@
 }
 
 
-@media (max-width:700px) {
-
+@media (max-width <= 700px) {
   .menu{
     position: relative;
     margin-left: auto;
@@ -41,7 +39,7 @@
 }
 }
 
-@media (max-width:400px) {
+@media (max-width <= 400px) {
   .menu {
     position: absolute;
     right:0;
