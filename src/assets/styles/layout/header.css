@@ -22,10 +22,11 @@
 }
 
 .header-logo{
-  margin-top: 0px;
+  margin-top: 0;
   position: relative;
     
 }
+
 .header-logo img{
 max-width: 200%;
     
@@ -38,36 +39,36 @@ width: 60%;
 
 
 .scroll{
-
   background-color: var(--white-0);
-  box-shadow: 0px 1px 4px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 1 4 1 rgba(0 / 10%);
   transition: background-color .3s;
 }
 
-@media (max-width: 900px) {
+@media (max-width <= 900px) {
   .header-logo img{
     width: 10%;
   }
 }
-@media (max-width: 700px) {
+
+@media (max-width <= 700px) {
   .header-logo img{
     width: 80%;
     }
 }
-@media (max-width: 400px) {
 
+@media (max-width <= 400px) {
   .header-logo img{
     width: 140%;
   }
+  
   .header-app-icon{
       display: none;
   }
 }
-@media (max-width: 370px) {
 
+@media (max-width <= 370px) {
   .header-logo img{
-    width: 180%;
-        
-    }
+    width: 180%;     
+  }
 
 }
