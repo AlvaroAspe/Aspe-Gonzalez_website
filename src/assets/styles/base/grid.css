@@ -4,6 +4,7 @@ body {
   grid-template-rows: auto 1fr auto;
   min-height: 100vh;
 }
+
 .container {
   padding-left: var(--container-padding);
   padding-right: var(--container-padding);
