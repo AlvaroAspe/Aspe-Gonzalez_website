@@ -1,3 +1,4 @@
+/* stylelint-disable media-feature-range-notation */
 .header {
   padding-top: var(--spacer-xs);
   padding-bottom: var(--spacer-l);

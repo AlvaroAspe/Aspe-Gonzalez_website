@@ -1,3 +1,4 @@
+/* stylelint-disable media-feature-range-notation */
 .galeria.container.grid {
     padding: 0;
 }
@@ -159,7 +160,7 @@ border: 1px solid var(--accent-secondary);
   height: 20px;
   }
 
-  @media (max-width >= 700px){
+  @media (max-width: 700px){
     .botonera-portfolio{
     display: flex;
     width: 100vw;
@@ -178,7 +179,7 @@ border: 1px solid var(--accent-secondary);
     }      
   }
 
-  @media (max-width >= 370px){
+  @media (max-width: 370px){
     .botonera-portfolio{
     display: flex;
     justify-content: space-evenly;
