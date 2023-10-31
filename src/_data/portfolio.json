@@ -1,6 +1,6 @@
 [
   {
-   "imagen": "P01_IE_DIGITALECONOMY.jpg",
+   "imagen": "P01_IE_DIGITALECONOMY.webp",
     "webm": "P01_IE_DIGITALECONOMY.webm",
     "mp4": "P01_IE_DIGITALECONOMY.mp4",
     "descripcion": "proyecto_1",
@@ -10,7 +10,7 @@
     "tecnica":"mixed"
   },
   {
-   "imagen": "P2_INSERTA.jpg",
+   "imagen": "P2_INSERTA.webp",
     "webm": "P2_INSERTA.webm",
     "mp4": "P2_INSERTA.mp4",
     "descripcion": "proyecto_2",
@@ -20,7 +20,7 @@
     "tecnica":"dos_D"
   },
   {
-   "imagen": "P3_CR.jpg",
+   "imagen": "P3_CR.webp",
     "webm": "P3_CR.webm",
     "mp4": "P3_CR.mp4",
     "descripcion": "proyecto_3",
@@ -30,7 +30,7 @@
     "tecnica":"mixed"
   },
   {
-   "imagen": "P04_T4D.jpg",
+   "imagen": "P04_T4D.webp",
     "webm": "P04_T4D.webm",
     "mp4": "P04_T4D.mp4",
     "descripcion": "proyecto_4",
@@ -40,7 +40,7 @@
     "tecnica":"mixed"
   },
   {
-   "imagen": "P5_CAAC.jpg",
+   "imagen": "P5_CAAC.webp",
     "webm": "P5_CAAC.webm",
     "mp4": "P5_CAAC.mp4",
     "descripcion": "proyecto_5",
@@ -50,7 +50,7 @@
     "tecnica":"mixed"
   },
   {
-   "imagen": "P5_BERRI.jpg",
+   "imagen": "P5_BERRI.webp",
     "webm": "P5_BERRI.webm",
     "mp4": "P5_BERRI.mp4",
     "descripcion": "proyecto_6",
@@ -60,7 +60,7 @@
     "tecnica":"tres_D"
   },
   {
-   "imagen": "P07_LOS_LABIOS.jpg",
+   "imagen": "P07_LOS_LABIOS.webp",
     "webm": "P07_LOS_LABIOS.webm",
     "mp4": "P07_LOS_LABIOS.mp4",
     "descripcion": "proyecto_7",
@@ -70,7 +70,7 @@
     "tecnica":"dos_D"
   },
   {
-   "imagen": "P08_IEU_CARBON.jpg",
+   "imagen": "P08_IEU_CARBON.webp",
     "webm": "P08_IEU_CARBON.webm",
     "mp4": "P08_IEU_CARBON.mp4",
     "descripcion": "proyecto_8",
@@ -80,7 +80,7 @@
     "tecnica":"dos_D"
   },
   {
-   "imagen": "P09_T4D_ACADEMIC.jpg",
+   "imagen": "P09_T4D_ACADEMIC.webp",
     "webm": "P09_T4D_ACADEMIC.webm",
     "mp4": "P09_T4D_ACADEMIC.mp4",
     "descripcion": "proyecto_9",
@@ -90,7 +90,7 @@
     "tecnica":"dos_D"
   },
   {
-   "imagen": "P10_IMAGENERA.jpg",
+   "imagen": "P10_IMAGENERA.webp",
     "webm": "P10_IMAGENERA.webm",
     "mp4": "P10_IMAGENERA.mp4",
     "descripcion": "proyecto_10",
@@ -100,7 +100,7 @@
     "tecnica":"dos_D"
   },
   {
-   "imagen": "P11_OG.jpg",
+   "imagen": "P11_OG.webp",
     "webm": "P11_OG.webm",
     "mp4": "P11_OG.mp4",
     "descripcion": "proyecto_11",
@@ -110,7 +110,7 @@
     "tecnica":"tres_D"
   },
   {
-   "imagen": "P12_PSOE.jpg",
+   "imagen": "P12_PSOE.webp",
     "webm": "P12_PSOE.webm",
     "mp4": "P12_PSOE.mp4",
     "descripcion": "proyecto_12",
@@ -120,7 +120,7 @@
     "tecnica":"dos_D"
   },
   {
-   "imagen": "P13_IE_WE.jpg",
+   "imagen": "P13_IE_WE.webp",
     "webm": "P13_IE_WE.webm",
     "mp4": "P13_IE_WE.mp4",
     "descripcion": "proyecto_13",
@@ -130,7 +130,7 @@
     "tecnica":"mixed dos_D"
   },
   {
-   "imagen": "P14_CR_PRINTS.jpg",
+   "imagen": "P14_CR_PRINTS.webp",
     "webm": "P14_CR_PRINTS.webm",
     "mp4": "P14_CR_PRINTS.mp4",
     "descripcion": "proyecto_14",
@@ -140,7 +140,7 @@
     "tecnica":"print"
   },
   {
-   "imagen": "P15_CEA.jpg",
+   "imagen": "P15_CEA.webp",
     "webm": "P15_CEA.webm",
     "mp4": "P15_CEA.mp4",
     "descripcion": "proyecto_15",
@@ -150,7 +150,7 @@
     "tecnica":"print tres_D"
   },
   {
-   "imagen": "P16_Channel9.jpg",
+   "imagen": "P16_Channel9.webp",
     "webm": "P16_Channel9.webm",
     "mp4": "P16_Channel9.mp4",
     "descripcion": "proyecto_16",
@@ -160,7 +160,7 @@
     "tecnica":"tres_D"
   },
   {
-   "imagen": "P17_MP.jpg",
+   "imagen": "P17_MP.webp",
     "webm": "P17_MP.webm",
     "mp4": "P17_MP.mp4",
     "descripcion": "proyecto_17",
@@ -170,7 +170,7 @@
     "tecnica":"tres_D print"
   },
   {
-   "imagen": "P18_MILKY.jpg",
+   "imagen": "P18_MILKY.webp",
     "webm": "P18_MILKY.webm",
     "mp4": "P18_MILKY.mp4",
     "descripcion": "proyecto_18",
