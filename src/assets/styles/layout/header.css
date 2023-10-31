@@ -28,16 +28,9 @@
     
 }
 
-.header-logo img{
-max-width: 200%;
-    
-}
-
 .header-app-icon{
 justify-self:end;
-width: 60%;
 }
-
 
 .scroll{
   background-color: var(--white-0);
