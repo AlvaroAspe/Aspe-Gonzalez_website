@@ -36,7 +36,7 @@ function navegacionScroll() {
       if (posicionY - alturaBotonera < 0) {
         botonera.classList.add("botonera_scroll");
       } else {
-        botonera.classList.remove("botonera-scroll");
+        botonera.classList.remove("botonera_scroll");
       }
 
       if (posicionY - navegacionAltura < 0) {
