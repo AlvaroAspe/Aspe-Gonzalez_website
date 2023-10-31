@@ -34,7 +34,7 @@ justify-self:end;
 
 .scroll{
   background-color: var(--white-0);
-  box-shadow: 0 1 4 1 rgba(0 / 10%);
+  box-shadow: 0 1px 6px 2px rgba(0 0 0 / 20%);
   transition: background-color .3s;
 }
 

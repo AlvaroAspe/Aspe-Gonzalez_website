@@ -21,7 +21,11 @@ $(document).ready(function(){
 
          //MOSTRANDO PROYECTOS ==========================================
          $('.'+catProject+'').show();
-         var proyectos = document.querySelectorAll(catProject);
+        
+         
+      /* $('.'+catProject+'').addClass('col-12');*/
+        
+
 
      });
 
