@@ -10,22 +10,21 @@
 .header .container{
  padding-top: 10px;
  padding-bottom: 10px;
-  display: grid;
-  gap: 10px;
-  grid-template-columns: 1fr 250px 45px;
-  justify-content:space-evenly;
-  align-items: center;
-  position: fixed;
-  top:0;
-  left: 0;
-  right: 0;
-  transition: background-color .2s;
+ display: grid;
+ gap: 10px;
+ grid-template-columns: 1fr 250px 45px;
+ justify-content:space-evenly;
+ align-items: center;
+ position: fixed;
+ top:0;
+ left: 0;
+ right: 0;
+ transition: background-color .2s;
 }
 
 .header-logo{
   justify-self: flex-start;
   margin-top: 0;
-  position: relative;
     
 }
 
@@ -39,31 +38,12 @@ justify-self:end;
   transition: background-color .3s;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 400px) {
   .header-logo img{
-    width: 10%;
-  }
-}
-
-@media (max-width: 700px) {
-  .header-logo img{
-    width: 80%;
-    }
-}
-
-@media (max-width : 400px) {
-  .header-logo img{
-    width: 140%;
+    width: 120%;
   }
   
   .header-app-icon{
       display: none;
   }
-}
-
-@media (max-width: 370px) {
-  .header-logo img{
-    width: 180%;     
-  }
-
 }
