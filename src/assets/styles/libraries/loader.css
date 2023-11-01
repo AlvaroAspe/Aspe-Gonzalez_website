@@ -9,7 +9,7 @@
     justify-content: center;
     align-items: center;
     opacity: 1;
-    transition: all 4s ease-out;
+    transition: all 1s ease-out;
 }
 
 .loader {
@@ -48,7 +48,7 @@
   
   @keyframes bounce {
     0% , 50% , 100%{
-      transform: translate(-50%, 0px);
+      transform: translate(-50%, 0);
       height: 20px;
     }
 
@@ -81,4 +81,5 @@
     
 .loaded{
   opacity: 0;
+  z-index: -22;
 }
