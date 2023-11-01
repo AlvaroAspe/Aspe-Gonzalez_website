@@ -14,11 +14,15 @@
 
 .portfolio {
     display: grid;
+    height: 100%;
     grid-template-columns: var(--grid-main);
-    grid-auto-rows: 300px;
-    grid-auto-flow: dense;
+    grid-auto-rows: minmax(300px,auto);
+    grid-auto-flow:row;
+    gap: 6px;
     margin: 0;
-    padding: 0; 
+    padding-left: 6px;
+    padding-right: 6px;  
+    background-color: var(--black-0);   
 }
 
 .filter-btn {
@@ -48,13 +52,13 @@
    cursor: pointer;
    overflow: hidden;
    margin: 0;
-   padding: 0;    
+   
 }
 
 .project-img {
  width: 100%;
- object-fit: cover;
  height: 100%;
+ object-fit: cover;
  overflow: hidden;
 }
 
@@ -171,7 +175,7 @@ border: 1px solid var(--accent-secondary);
     background-color: var(--black-0); 
     } 
 
-    .filter-btn{
+    .filter-btn{ 
         border-radius: 50%;
         padding: 5px 9px;
         margin: 4px;
@@ -179,13 +183,17 @@ border: 1px solid var(--accent-secondary);
     }      
   }
 
-  @media (max-width: 370px){
-    .botonera-portfolio{
+  @media (max-width: 400px){
+    .portfolio {
+        padding: 0;   
+    }
+
+    .botonera-portfolio {
     display: flex;
     justify-content: space-evenly;
     }
 
-    .filter-btn{ 
+    .filter-btn { 
         margin: 0;
     }  
   }

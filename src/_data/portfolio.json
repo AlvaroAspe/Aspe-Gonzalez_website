@@ -1,5 +1,15 @@
 [
   {
+    "imagen": "P00_Reel.webp",
+     "webm": "P00_Reel.webm",
+     "mp4": "P00_Reel.mp4",
+     "descripcion": "proyecto_0",
+     "titulo":"A&G",
+     "subtitulo":"Reel´23",
+     "tamano":"col-12",
+     "tecnica":"mixed"
+   },
+  {
    "imagen": "P01_IE_DIGITALECONOMY.webp",
     "webm": "P01_IE_DIGITALECONOMY.webm",
     "mp4": "P01_IE_DIGITALECONOMY.mp4",
@@ -136,7 +146,7 @@
     "descripcion": "proyecto_14",
     "titulo":"CURRO ROMERO",
     "subtitulo":"El Faraón",
-    "tamano":"col-8 col-md-6 col-sm-4 col-xs-6 ",
+    "tamano":"col-8 col-md-6 col-sm-4 col-xs-6",
     "tecnica":"print"
   },
   {
