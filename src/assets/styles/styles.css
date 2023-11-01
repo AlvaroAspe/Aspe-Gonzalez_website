@@ -3,7 +3,6 @@
 @import "variables/v-spacer.css";
 @import "variables/v-grid.css";
 @import "base/reset.css";
-@import "libraries/loader.css";
 @import "base/typography.css";
 @import "base/grid.css";
 @import "base/grid-cols.css";
