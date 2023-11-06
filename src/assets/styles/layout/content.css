@@ -12,7 +12,7 @@
   background-repeat: repeat;
   animation: bg-animation .2s infinite;
   opacity: .9;
-  z-index: -2;
+  z-index: -4;
   visibility: visible;
 }
 

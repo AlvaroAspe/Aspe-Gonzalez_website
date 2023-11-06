@@ -2,7 +2,6 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto 1fr auto;
-  min-height: 100vh;
 }
 
 .container {
@@ -11,13 +10,13 @@ body {
   max-width: var(--maxwidth);
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  
 }
 
 .grid {
   display: grid;
   grid-template-columns: var(--grid-main);
-  grid-auto-rows: min-content;
+  grid-auto-rows:auto;
   grid-gap: 0 var(--grid-gap);
   
 }
